@@ -1,0 +1,62 @@
+com.github.atomashpolskiy:bt-dht;1.7;Mainline DHT (libmldht) адаптер для клиента Bt BitTorrent
+com.github.atomashpolskiy:bt-http-tracker-client;1.7;Библиотека для интеграции с HTTP BitTorrent-трекерами
+com.github.jai-imageio:jai-imageio-core;1.3.1;Ядро API Advanced Imaging Image I / O Tools, но без классов, связанных с зависимостями javax.media.jai, JPEG2000 или codecLibJIIO, что означает, что эта библиотека может распространяться по модифицированной лицензии BSD и должна быть совместима с GPL.
+com.github.jnr:jnr-constants;0.9.8;Набор констант платформы (например, значения errno)
+com.github.jnr:jnr-ffi;2.1.4;Библиотека для вызова нативных функций из Java
+com.github.jnr:jnr-x86asm;1.0.2;Чисто-Java X86 и X86_64 ассемблер
+com.google.errorprone:error_prone_annotations;2.0.18;Подверженные ошибкам аннотации
+com.google.guava:guava;22.0;Guava - это набор базовых и расширенных библиотек, которые включают в себя служебные классы, коллекции Google, io-классы и многое другое.
+com.google.j2objc:j2objc-annotations;1.1;Набор аннотаций, которые предоставляют дополнительную информацию переводчику J2ObjC для изменения результата перевода.
+com.googlecode.javaewah:JavaEWAH;0.7.9;Структура данных битового массива реализована в Java как класс BitSet.
+com.h2database:h2;1.4.193;H2 Database Engine
+com.ibm.mq:com.ibm.mq.allclient;9.0.4.0;Классы IBM MQ для Java и JMS.
+com.infradna.tool:bridge-method-annotation;1.13;Инъекции метода моста
+com.jayway.jsonpath:json-path;2.2.0;Java-порт Стефана Гесснера JsonPath.
+com.sparkjava:spark-core;2.6.0;Вдохновленный Sinatra фреймворк Java
+com.squareup.okhttp3:okhttp;3.3.0;OkHttp
+com.squareup.okio:okio;1.8.0;Современный I / O API для Java
+com.squareup.retrofit2:converter-gson;2.1.0;Конвертировать: Gson
+com.squareup.retrofit2:retrofit;2.1.0;модифицировать
+com.sun.mail:javax.mail;1.5.6;JavaMail API
+com.sun.solaris:embedded_su4j;1.1;Embedded_su для Java
+com.sun.xml.bind:jaxb-core;2.2.11;Старый модуль JAXB Core.
+com.sun.xml.txw2:txw2;20110809;TXW2 Runtime
+com.vaadin.external.google:android-json;0.0.20131108.vaadin1;JSON (JavaScript Object Notation) - это легкий формат обмена данными.
+crypto:crypto-server-lib;5;Джарников нет
+io.dropwizard.metrics:metrics-core;3.1.3;Metrics - это библиотека Java, которая дает вам беспрецедентное представление о том, что делает ваш код в производстве.
+io.dropwizard.metrics:metrics-core;3.2.4;Metrics - это библиотека Java, которая дает вам беспрецедентное представление о том, что делает ваш код в производстве.
+io.dropwizard.metrics:metrics-json;3.1.5;Набор модулей Джексона, которые предоставляют сериализаторы для большинства классов метрик.
+io.netty:netty-all;4.1.16.Final;Нетти / Все в одном
+io.netty:netty-buffer;4.0.36.Final;Нетти
+io.netty:netty-codec;4.0.36.Final;Нетти
+io.netty:netty-common;4.0.36.Final;Нетти
+io.netty:netty-handler;4.0.36.Final;Нетти
+io.netty:netty-transport;4.0.36.Final;Нетти
+io.springfox:springfox-core;2.9.2;Документация по JSON API для Spring-приложений
+io.springfox:springfox-schema;2.9.2;Документация по JSON API для Spring-приложений
+io.springfox:springfox-spi;2.9.2;Документация по JSON API для Spring-приложений
+io.springfox:springfox-spring-web;2.9.2;Документация по JSON API для Spring-приложений
+io.springfox:springfox-swagger2;2.9.2;Документация по JSON API для Spring-приложений
+io.springfox:springfox-swagger-common;2.9.2;Документация по JSON API для Spring-приложений
+io.springfox:springfox-swagger-ui;2.9.2;Документация по JSON API для Spring-приложений
+io.swagger:swagger-annotations;1.5.20;Swagger Аннотации
+io.swagger:swagger-models;1.5.20;Джарников нет
+jarapac:jarapac;1.0.0;Джарников нет
+jarapac:ncacn_ip_tcp;1.0.0;Джарников нет
+javax.annotation:javax.annotation-api;1.2;Общие аннотации для API платформы JavaTM
+javax.annotation:javax.annotation-api;1.3;Общие аннотации для API платформы JavaTM
+javax.inject:javax.inject;1;API javax.inject
+javax.jms:javax.jms-api;2.0.1;Jamas API
+javax.resource:javax.resource-api;1.7.1;Джава дал архитектуру разъема
+javax.servlet.jsp.jstl:javax.servlet.jsp.jstl-api;1.2.1;API библиотеки тегов JavaServer Pages (TM)
+javax.servlet:javax.servlet-api;3.1.0;API сервлетов Java
+javax.transaction:javax.transaction-api;1.2;API-интерфейс Project GlassFish для Java-транзакций
+javax.validation:validation-api;1.0.0.GA;API проверки бинов
+javax.validation:validation-api;1.1.0.Final;API проверки бинов
+javax.websocket:javax.websocket-api;1.0;JSR
+javax.ws.rs:javax.ws.rs-api;2.1;Java API для веб-сервисов RESTful
+net.bramp.ffmpeg:ffmpeg;0.6.2;Джарников нет
+net.bytebuddy:byte-buddy;1.8.12;Byte Buddy - это библиотека Java для создания классов Java во время выполнения.
+net.i2p.crypto:eddsa;0.2.0;Реализация EdDSA на Java
+net.java.sezpoz:sezpoz;1.12;SezPoz Библиотека
+net.jpountz.lz4:lz4;1.3.0;Джарников нет
