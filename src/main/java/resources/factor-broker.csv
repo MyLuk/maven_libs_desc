@@ -1,0 +1,271 @@
+BROKER;BROKER;BROKER
+com.sun.xml.bind:jaxb-core;2.2.11;Старый модуль JAXB Core.
+org.apache.commons:commons-csv;1.5;Этот пакет просто оборачивает $ {pkgArtifactId} - $ {pkgVersion} .jar.
+com.fasterxml.jackson.core:jackson-core;2.6.3;JSON парсер для Java
+org.apache.xbean:xbean-spring;4.14;Xbean-spring предоставляет управляемый схемой проприетарный обработчик пространства имен для контекстов Spring
+com.atomikos:transactions;4.0.4;Управление распределенными транзакциями
+com.sun.mail:javax.mail;1.5.6;JavaMail API
+com.beust:jcommander;1.48;Библиотека анализатора командной строки для Java
+org.codehaus.plexus:plexus-utils;3.0.7;Коллекция различных служебных классов для облегчения работы со строками, файлами, командными строками, XML и многим другим.
+org.eclipse.jetty:jetty-servlets;9.4.24.v20191120;Сервисные сервлеты от Jetty
+org.eclipse.milo:sdk-client;0.1.4;SDK Client
+com.fasterxml.jackson.jaxrs:jackson-jaxrs-base;2.8.7;JSON парсер для Java
+org.springframework:spring-expression;4.3.7.RELEASE;Spring Expression Language (SpEL)
+org.springframework.ldap:spring-ldap-core;2.3.1.RELEASE;Spring-ldap-core
+org.codehaus.plexus:plexus-io;2.0.4;Компоненты сплетения IO
+org.apache.cxf:cxf-rt-frontend-jaxrs;3.2.1;Apache CXF Runtime JAX-RS Фронтенд
+org.springframework:spring-beans;4.3.7.RELEASE;Spring Framework: Beans
+org.eclipse.jetty:jetty-client;9.4.24.v20191120;Jetty :: Асинхронный HTTP-клиент
+commons-beanutils:commons-beanutils;1.9.2;Java Bean Utilities
+org.slf4j:slf4j-api;1.7.13;API slf4j
+com.google.code.findbugs:jsr305;3.0.1;Поддержка проекта аннотации jsr305
+org.slf4j:log4j-over-slf4j;1.7.24;Log4j реализован поверх SLF4J
+org.springframework:spring-aop;4.3.7.RELEASE;Spring Framework: AOP
+io.netty:netty-all;4.1.16.Final;Netty - это клиент-серверная инфраструктура NIO, которая позволяет быстро и легко разрабатывать сетевые приложения, такие как серверы протоколов и клиенты
+org.springframework.boot:spring-boot-starter-websocket;1.5.2.RELEASE;Стартер для создания приложений WebSocket с использованием поддержки Spring Framework WebSocket
+com.rabbitmq:amqp-client;4.2.1;Клиентская библиотека RabbitMQ Java позволяет коду Java взаимодействовать с серверами AMQP.
+org.apache.camel:camel-cache;2.20.2;Поддержка Camel Cache на основе ehCache
+org.apache.camel:camel-spark-rest;2.20.2;Поддержка Camel Spark (REST DSL)
+org.apache.commons:commons-pool2;2.4.2;Библиотека пула объектов Apache Commons.
+org.eclipse.milo:stack-core;0.1.4;Ядро стека
+org.codehaus.plexus:plexus-container-default;1.0-alpha-9-stable-1;Контейнерный API-интерфейс Plexus IoC и его реализация по умолчанию.
+com.github.atomashpolskiy:bt-dht;1.7;Mainline DHT (libmldht) адаптер для клиента Bt BitTorrent
+javax.resource:javax.resource-api;1.7.1;Джава дал архитектуру разъема
+com.atomikos:transactions-api;4.0.4;Управление распределенными транзакциями
+com.fasterxml.jackson.dataformat:jackson-dataformat-xml;2.6.3;JSON парсер для Java
+com.google.inject.extensions:guice-multibindings;4.1.0;Инструменты, внедряющие коллекции связанных значений
+org.apache.camel:camel-kafka;2.20.2;Поддержка Camel Kafka
+commons-lang:commons-lang;2.6;Commons.Lang, пакет служебных классов Java для классов, которые находятся в иерархии java.lang или считаются настолько стандартными, чтобы оправдать существование в java.lang.
+org.apache.camel:camel-ftp;2.20.2;Поддержка Camel FTP
+org.apache.commons:commons-exec;1.3;Библиотека для надежного выполнения внешних процессов внутри JVM
+org.apache.camel:camel-stream;2.20.2;Поддержка Camel Stream (System.in, System.out, System.err)
+com.google.errorprone:error_prone_annotations;2.0.18;Подверженные ошибкам аннотации
+org.apache.camel:camel-cxf-transport;2.20.2;Верблюжий транспорт для Apache CXF
+org.lz4:lz4-java;1.6.0;Java-порты и привязки алгоритма сжатия LZ4 и алгоритма хеширования xxHash
+org.apache.camel:camel-xmljson;2.20.2;Формат данных Camel XML JSON
+com.fasterxml.jackson.core:jackson-annotations;2.6.3;JSON парсер для Java
+org.eclipse.jetty.websocket:websocket-common;9.4.24.v20191120;Jetty :: Websocket :: Common
+org.apache.geronimo.specs:geronimo-j2ee-management_1.1_spec;1.0.1;J2EE Management 1.1
+org.springframework.plugin:spring-plugin-core;1.2.0.RELEASE;Базовая инфраструктура плагинов
+org.apache.camel:camel-jetty9;2.20.2;Поддержка Camel Jetty9
+org.springframework.ws:spring-ws-core;2.4.0.RELEASE;Базовый пакет Spring Web Services.
+org.apache.camel:camel-rabbitmq;2.20.2;Camel RabbitMQ Component
+org.apache.camel:camel-sjms;2.20.2;Чистый Java JMS Camel Component
+org.bouncycastle:bcpkix-jdk15on;1.57;Java API Bouncy Castle для CMS, PKCS, EAC, TSP, CMP, CRMF, OCSP и генерации сертификатов.
+org.apache.cxf:cxf-rt-frontend-jaxws;3.2.1;Apache CXF Runtime JAX-WS Frontend
+org.bouncycastle:bcprov-jdk15on;1.60;Пакет Bouncy Castle Crypto представляет собой Java-реализацию криптографических алгоритмов.
+org.apache.camel:camel-torrent;2.20.2;Верблюд ядро
+org.apache.camel:camel-groovy;2.20.2;Поддержка Camel Groovy
+org.springframework.security:spring-security-core;4.2.2.RELEASE;Модуль безопасности Spring
+ru.factorts:factor-module;5.14.0;Джарников нет
+org.springframework:spring-test;4.3.7.RELEASE;Spring Framework: Тест
+org.hibernate:hibernate-validator;4.3.1.Final;Следуя принципу СУХОЙ (не повторять себя), Hibernate Validator позволяет вам выражать ограничения вашего домена один раз (и только один раз) и автоматически обеспечивать их соответствие на различных уровнях вашей системы.
+org.apache.cxf:cxf-core;3.2.4;Apache CXF Core
+org.yaml:snakeyaml;1.17;Парсер и эмиттер YAML 1.1 для Java
+org.apache.activemq:activemq-pool;5.15.11;ActiveMQ пул соединений фабрика
+ru.factorts:factor-common;5.14.0;Джарников нет
+org.apache.activemq:activemq-jms-pool;5.15.11;Общий JMS-пул ConnectionFactory
+org.springframework.plugin:spring-plugin-metadata;1.2.0.RELEASE;Пакет расширений для плагинов на основе метаданных
+org.apache.camel:camel-performance;2.20.2;Верблюд ядро
+org.eclipse.milo:sdk-server;0.1.4;SDK Server
+javax.jms:javax.jms-api;2.0.1;Jamas API
+io.springfox:springfox-swagger-common;2.9.2;Документация по JSON API для Spring-приложений
+org.springframework.integration:spring-integration-core;4.3.8.RELEASE;Spring Integration Core
+org.apache.activemq:activemq-broker;5.15.11;Реализация ActiveMQ Message Broker
+org.apache.camel:camel-ssh;2.20.2;Поддержка Camel SSH
+org.bouncycastle:bcpg-jdk15on;1.57;Java API Bouncy Castle для обработки протокола OpenPGP.
+org.springframework:spring-webmvc;4.3.7.RELEASE;Spring Framework: WebMVC
+org.ow2.asm:asm;5.2;Очень маленькая и быстрая среда манипулирования байт-кодом Java
+org.springframework.ws:spring-ws-support;2.4.0.RELEASE;Пакет поддержки Spring Web Services.
+org.apache.camel:camel-ehcache;2.20.2;Поддержка Camel Ehcache
+org.springframework.boot:spring-boot-starter-logging;1.5.2.RELEASE;Стартер для входа с использованием Logback.
+com.github.atomashpolskiy:bt-bencoding;1.7;Библиотека для разбора, кодирования и проверки закодированных документов в Java
+org.springframework.boot:spring-boot-configuration-processor;1.5.2.RELEASE;Процессор настройки Spring Boot
+io.swagger:swagger-models;1.5.20;Модели Swagger
+commons-logging:commons-logging;1.0.4;Apache Commons Logging - это тонкий адаптер, позволяющий настраивать мостовое соединение с другими, хорошо известными системами ведения журналов
+org.apache.camel:camel-csv;2.20.2;Поддержка Camel CSV
+xpp3:xpp3_min;1.1.4c;MXP1 - это стабильный механизм синтаксического анализа XmlPull, основанный на идеях XPP и, в частности, XPP2, но полностью пересмотренный и переписанный, чтобы использовать все преимущества последних JVM JIT, таких как Hotspot в JDK 1.4+.
+org.apache.camel:camel-script;2.20.2;Поддержка Camel Script
+io.netty:netty-transport;4.0.36.Final;Netty - это клиент-серверная инфраструктура NIO, которая позволяет быстро и легко разрабатывать сетевые приложения, такие как серверы протоколов и клиенты
+org.apache.camel:camel-ldap;2.20.2;Поддержка Camel LDAP
+org.eclipse.jetty:jetty-server;9.4.24.v20191120;Основной артефакт сервера Jetty.
+org.eclipse.jetty:jetty-security;9.4.24.v20191120;Инфраструктура безопасности причала
+com.sparkjava:spark-core;2.6.0;Вдохновленный Sinatra фреймворк Java
+org.apache.geronimo.specs:geronimo-jta_1.1_spec;1.1.1;Зота 1,5
+org.apache.cxf:cxf-rt-bindings-soap;3.2.1;Привязка времени выполнения Apache CXF
+org.apache.camel:camel-wmq;2.20.2;Верблюд ядро
+org.springframework.boot:spring-boot-autoconfigure;1.5.2.RELEASE;Spring Boot AutoConfigure
+org.springframework:spring-messaging;4.3.7.RELEASE;Spring Messaging
+org.apache.geronimo.specs:geronimo-jms_2.0_spec;1.0-alpha-2;API Java Message Service 2.0
+org.apache.camel:camel-jms;2.20.2;Поддержка Camel JMS
+org.apache.cxf:cxf-rt-ws-addr;3.2.1;Apache CXF Runtime WS Адресация
+org.apache.camel:camel-http-common;2.20.2;Верблюд HTTP общий
+org.apache.cxf:cxf-rt-transports-http;3.2.11;Apache CXF Runtime HTTP Transport
+net.sf.json-lib:json-lib;jdk15;Библиотека Java для преобразования bean-компонентов, карт и XML в JSON.
+commons-collections:commons-collections;3.2.2;Типы, которые расширяют и дополняют Java Collections Framework.
+org.apache.camel:camel-sql;2.20.2;Поддержка Camel SQL
+org.apache.camel:camel-mina2;2.20.2;Поддержка Camel MINA 2.x
+org.eclipse.jetty:jetty-xml;9.4.24.v20191120;Пристани xml утилиты.
+org.eclipse.jetty:jetty-io;9.4.24.v20191120;Jetty :: IO Utility
+javax.transaction:javax.transaction-api;1.2;API-интерфейс Project GlassFish для Java-транзакций
+org.springframework:spring-context;4.3.7.RELEASE;Spring Framework: контекст
+org.apache.cxf:cxf-rt-frontend-simple;3.2.1;Apache CXF Runtime Простой интерфейс
+io.netty:netty-codec;4.0.36.Final;Netty - это клиент-серверная инфраструктура NIO, которая позволяет быстро и легко разрабатывать сетевые приложения, такие как серверы протоколов и клиенты
+org.apache.camel:camel-jaxb;2.20.2;Поддержка Camel JAXB
+org.mockito:mockito-all;1.10.19;Библиотека фиктивных объектов для Java
+org.springframework:spring-oxm;4.3.7.RELEASE;Spring Object / XML Mapping абстракция
+xml-resolver:xml-resolver;1.2;Xml-commons предоставляет Apache-размещенный набор интерфейсов DOM, SAX и JAXP для использования в других проектах на основе xml.
+org.springframework:spring-aspects;4.3.7.RELEASE;Spring Framework: аспекты
+commons-httpclient:commons-httpclient;3.1;Компонент HttpClient поддерживает клиентскую часть RFC 1945 (HTTP / 1.0) и RFC 2616 (HTTP / 1.1), несколько связанных спецификаций (RFC 2109 (Cookies), RFC 2617 (HTTP-аутентификация) и т. Д.) И обеспечивает платформу
+org.eclipse.jetty:jetty-webapp;9.4.24.v20191120;Поддержка веб-приложений Jetty
+org.apache.camel:camel-mail;2.20.2;Поддержка Camel Mail
+org.springframework:spring-web;4.3.7.RELEASE;Spring Framework: Web
+com.github.luben:zstd-jni;1.4.3-1;Привязки JNI для собственной библиотеки Zstd, которая обеспечивает быстрый и высокий алгоритм сжатия без потерь для Java и всех языков JVM.
+aopalliance:aopalliance;1.0;Aopalliance
+org.apache.cxf:cxf-rt-wsdl;3.2.1;Apache CXF Runtime Core для технологий на основе WSDL
+org.apache.camel:camel-zipfile;2.20.2;Поддержка Camel Zip файлов
+io.netty:netty-handler;4.0.36.Final;Netty - это клиент-серверная инфраструктура NIO, которая позволяет быстро и легко разрабатывать сетевые приложения, такие как серверы протоколов и клиенты
+org.springframework:spring-core;4.3.7.RELEASE;Spring Framework: Core
+org.apache.mina:mina-core;2.0.16;Apache MINA Core 3.0.0 M2
+org.slf4j:jul-to-slf4j;1.7.24;JUL в SLF4J мост
+org.apache.activemq:activemq-spring;5.15.11;ActiveMQ Spring Integration
+xml-apis:xml-apis;1.4.01;Xml-commons предоставляет Apache-размещенный набор интерфейсов DOM, SAX и JAXP для использования в других проектах на основе xml.
+net.sf.saxon:Saxon-HE;9.7.0-18;XSLT и XQuery Processor
+org.springframework.retry:spring-retry;1.2.0.RELEASE;Spring Retry предоставляет абстракцию вокруг повторения неудачных операций, с упором на декларативное управление процессом и поведение на основе политик, которое легко расширять и настраивать.
+io.netty:netty-common;4.0.36.Final;Netty - это клиент-серверная инфраструктура NIO, которая позволяет быстро и легко разрабатывать сетевые приложения, такие как серверы протоколов и клиенты
+org.apache.neethi:neethi;3.1.0;POM был создан из install: install-file
+xom:xom;1.2.5;XOM Dual Streaming / Tree API для обработки XML
+org.eclipse.jetty:jetty-continuation;9.4.24.v20191120;Асинхронный API
+org.javassist:javassist;3.21.0-GA;Javassist (помощник по программированию на Java) - это отражающая система времени загрузки для Java.
+org.eclipse.jetty:jetty-servlet;9.4.24.v20191120;Контейнер для сервлетов Jetty
+ch.qos.logback:logback-classic;1.2.3;Logback: универсальная, надежная, быстрая и гибкая библиотека журналов для Java.
+org.apache.activemq:activemq-client;5.15.11;Реализация клиента ActiveMQ
+org.apache.camel:camel-spring-ws;2.20.2;Поддержка Camel для Spring Web Services
+org.apache.httpcomponents:httpcore;4.4.6;HttpComponents Core (совместимый с Java 1.3)
+org.eclipse.milo:stack-client;0.1.4;Клиент стека
+io.dropwizard.metrics:metrics-core;3.1.3;Metrics - это библиотека Java, которая дает вам беспрецедентное представление о том, что делает ваш код в производстве.
+xalan:serializer;2.7.2;Сериализатор для записи XML, HTML и т. Д. В виде потока символов из входного DOM или из входных событий SAX.
+org.fusesource.hawtbuf:hawtbuf;1.11;HawtBuf
+com.atomikos:atomikos-util;4.0.4;Управление распределенными транзакциями
+xalan:xalan;2.7.2;Этот пакет просто оборачивает $ {pkgArtifactId} - $ {pkgVersion} .jar.
+com.atomikos:transactions-jdbc;4.0.4;Управление распределенными транзакциями
+org.apache.camel:camel-telegram;2.20.2;Поддержка Camel Telegram
+com.codepoetics:protonpack;1.8;Коллекция утилит Stream для Java 8
+net.sf.ehcache:ehcache;2.10.3;Ehcache - это чистый Java, внутрипроцессный кеш со следующими функциями: быстрый, простой, действует как подключаемый кеш для Hibernate 2.1.
+javax.validation:validation-api;1.1.0.Final;API проверки бинов
+org.mapstruct:mapstruct;1.2.0.Final;MapStruct Core
+org.apache.commons:commons-collections4;4.2;Пакет Apache Commons Collections содержит типы, которые расширяют и дополняют Java Collections Framework.
+org.aspectj:aspectjweaver;1.8.9;Ткач AspectJ представляет советы для классов Java
+commons-net:commons-net;3.6;Это Java-библиотека набора интернет-протоколов, изначально разработанная ORO, Inc. Эта версия поддерживает Finger, Whois, TFTP, Telnet, POP3, FTP, NNTP, SMTP и некоторые другие протоколы, такие как Time и Echo, а также поддержку команд BSD R. Цель библиотеки - обеспечить доступ к основному протоколу, а не к абстракциям более высокого уровня. Поэтому часть дизайна нарушает принципы объектно-ориентированного проектирования. Наша философия заключается в том, чтобы сделать глобальную функциональность протокольного доступа (например, отправляющий файл TFTP и принимаемый файл), когда это возможно, но также обеспечить доступ к основным протоколам, где это применимо, чтобы программист мог создавать свои собственные пользовательские реализации (например, TFTP). классы пакетов и методы отправки и получения пакетов TFTP). Изначально NetComponents был коммерческим продуктом, но после того, как ORO распался, его продолжали делать доступным для тех, кто нашел его полезным. Однако с момента версии 1.3.8, выпущенной в 1998 году, никаких обновлений сделано не было. Теперь, когда определенные обязательства по контракту истекли, можно сделать исходный код свободно доступным в рамках лицензии на программное обеспечение Apache.
+com.thoughtworks.xstream:xstream;1.4.10;Этот пакет просто оборачивает $ {pkgArtifactId} - $ {pkgVersion} .jar.
+io.springfox:springfox-spring-web;2.9.2;Документация по JSON API для Spring-приложений
+org.apache.httpcomponents:httpclient;4.5.3;Библиотека Java и клиент командной строки для высокопроизводительной параллельной загрузки / выгрузки через HTTP / HTTPS.
+org.projectlombok:lombok;1.18.0;Приправьте Java: автоматическое управление ресурсами, автоматическая генерация методов получения, установки, равенства, hashCode и toString и многое другое!
+org.eclipse.jetty:jetty-http;9.4.24.v20191120;Jetty :: Http Utility
+org.apache.camel:camel-xstream;2.20.2;Поддержка Camel XStream
+io.swagger:swagger-annotations;1.5.20;Swagger Аннотации
+classworlds:classworlds;1.1-alpha-2;Платформа для разработчиков контейнеров, которые требуют сложных манипуляций с загрузчиками классов Java.
+org.reflections:reflections;0.9.10;Размышления - анализ метаданных среды выполнения Java
+org.springframework.boot:spring-boot-starter-web;1.5.2.RELEASE;Стартер для создания веб, в том числе RESTful, приложений, использующих Spring MVC.
+javax.activation:activation;1.1;Пакет javax.activation.
+ch.qos.logback:logback-core;1.2.3;Logback: универсальная, надежная, быстрая и гибкая библиотека журналов для Java.
+org.apache.camel:camel-cxf;2.20.2;Поддержка Camel CXF
+xerces:xercesImpl;2.11.0;Xerces2 - это новое поколение высокопроизводительных, полностью совместимых анализаторов XML в семействе Apache Xerces.
+org.apache.cxf:cxf-rt-databinding-jaxb;3.2.1;Apache CXF Runtime JAXB DataBinding
+wsdl4j:wsdl4j;1.6.3;Этот пакет просто оборачивает $ {pkgArtifactId} - $ {pkgVersion} .jar.
+org.codehaus.plexus:plexus-archiver;2.2;Компонент архиватора Plexus
+commons-codec:commons-codec;1.10;Пакет кодеков содержит простой кодер и декодеры для различных форматов, таких как Base64 и Hexadecimal.
+org.springframework.session:spring-session;1.3.0.RELEASE;Spring сессия
+com.atomikos:transactions-jms;4.0.4;Управление распределенными транзакциями
+org.springframework:spring-tx;4.3.7.RELEASE;Spring Framework: транзакция
+ru.factorts:fesb-camel-components;5.14.0;Джарников нет
+net.lingala.zip4j:zip4j;1.3.2;Zip4j - библиотека Java для zip-файлов и потоков
+org.apache.activemq:activemq-camel;5.15.11;ActiveMQ компонент для Camel
+javax.inject:javax.inject;1;API javax.inject
+com.sun.xml.bind:jaxb-impl;2.2.11;Старый JAXB Runtime модуль.
+javax.servlet:javax.servlet-api;3.1.0;API сервлетов Java
+org.apache.geronimo.specs:geronimo-jms_1.1_spec;1.1.1;JMS 1.1
+org.slf4j:jcl-over-slf4j;1.7.13;Реализация JCL 1.1.1 поверх SLF4J
+javax.xml.stream:stax-api;1.0-2;StAX API - это стандартный API обработки XML Java, определенный в JSR-173
+org.codehaus.groovy:groovy-all;2.4.9;Groovy: мощный, динамичный язык для JVM
+org.springframework.boot:spring-boot;1.5.2.RELEASE;Spring Boot позволяет легко создавать автономные производственные приложения на основе Spring, которые можно «просто запустить»
+com.ibm.mq:com.ibm.mq.allclient;9.0.4.0;Классы IBM MQ для Java и JMS.
+org.apache.sshd:sshd-core;1.6.0;Библиотека Java для поддержки протоколов SSH на стороне клиента и сервера
+org.springframework:spring-jdbc;4.3.7.RELEASE;Spring Framework: JDBC
+org.eclipse.milo:sdk-core;0.1.4;Milo - это реализация OPC UA с открытым исходным кодом. Он включает в себя высокопроизводительный стек (каналы, сериализацию, структуры данных, безопасность), а также клиентские и серверные SDK, построенные поверх стека.
+com.fasterxml.jackson.core:jackson-databind;2.6.3;JSON парсер для Java
+org.apache.camel:camel-netty4;2.20.2;Компонент связи на основе сокета Camel Netty NIO
+org.jboss.logging:jboss-logging;3.3.0.Final;Каркас JBoss Logging
+com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider;2.8.7;JSON парсер для Java
+stax:stax-api;1.0.1;StAX API - это стандартный API обработки XML Java, определенный в JSR-173
+org.apache.camel:camel-printer;2.20.2;Поддержка принтеров Camel
+com.google.code.findbugs:annotations;2.0.1;Аннотация поддерживает инструмент FindBugs
+org.apache.camel:camel-base64;2.20.2;Поддержка формата данных Camel Base64
+org.apache.activemq:activemq-openwire-legacy;5.15.11;Модуль поддержки ActiveMQ Openwire Legacy
+com.google.inject:guice;4.1.0;Guice (произносится «сок») - это облегченная среда внедрения зависимостей для Java 5, представленная вам Google.
+org.eclipse.jetty.websocket:websocket-client;9.4.24.v20191120;Jetty :: Websocket :: Клиент
+org.springframework.ws:spring-xml;2.1.2.RELEASE;Различные классы поддержки XML для Spring Web Services
+org.codehaus.mojo:animal-sniffer-annotations;1.14;Животные Sniffer Аннотации
+com.google.zxing:core;3.3.0;Базовая библиотека кодирования / декодирования штрих-кода
+javax.ws.rs:javax.ws.rs-api;2.1;Java API для веб-сервисов RESTful
+io.dropwizard.metrics:metrics-json;3.1.5;Набор модулей Джексона, которые предоставляют сериализаторы для большинства классов метрик.
+org.apache.cxf:cxf-rt-bindings-xml;3.2.1;Привязка времени выполнения Apache CXF
+org.jooq:joox;1.4.0;JOOX - это рекурсивная аббревиатура, обозначающая jOOX Object Oriented XML.
+org.apache.ws.xmlschema:xmlschema-core;2.2.3;Commons XMLSchema - это легковесная объектная модель схемы, которую можно использовать для управления или генерации схемы XML.
+org.apache.camel:camel-jetty-common;2.20.2;Поддержка Camel Jetty 9.x
+org.apache.camel:camel-metrics;2.20.2;Компонент мониторинга на основе Camel Metrics
+org.xerial.snappy:snappy-java;1.1.7.3;Snappy-java: библиотека быстрого сжатия / распаковки
+org.apache.camel:camel-exec;2.20.2;Поддержка верблюдов для выполнения системных команд
+io.netty:netty-buffer;4.0.36.Final;Netty - это клиент-серверная инфраструктура NIO, которая позволяет быстро и легко разрабатывать сетевые приложения, такие как серверы протоколов и клиенты
+org.apache.camel:camel-saxon;2.20.2;Поддержка Camel SAXON
+xmlpull:xmlpull;1.1.3.1;API XML Pull Parsing
+org.apache.camel:camel-syslog;2.20.2;Поддержка Camel Syslog
+org.hamcrest:hamcrest-core;1.3;Core Hamcrest API - устарел, используйте вместо него «hamcrest»
+org.apache.cxf:cxf-rt-ws-policy;3.2.1;Политика Apache CXF Runtime WS
+org.codehaus.woodstox:woodstox-core-asl;4.4.1;Woodstox - это высокопроизводительный процессор XML, который реализует API-интерфейсы Stax (JSR-173) и SAX2
+com.github.atomashpolskiy:bt-http-tracker-client;1.7;Библиотека для интеграции с HTTP BitTorrent-трекерами
+com.jcraft:jsch;0.1.54;JSch - это чистая Java-реализация SSH2
+ru.factorts:wmq-repository;3.0.6;Клиент взаимодействия с WMQ
+io.springfox:springfox-schema;2.9.2;Документация по JSON API для Spring-приложений
+org.eclipse.jetty:jetty-util;9.4.24.v20191120;Утилиты для Jetty
+com.atomikos:transactions-jta;4.0.4;Управление распределенными транзакциями
+org.apache.cxf:cxf-rt-transports-http-jetty;3.2.11;Apache CXF Runtime HTTP Jetty Transport
+com.google.zxing:javase;3.3.0;Специфичные для Java SE расширения базовой библиотеки Zxing
+org.codehaus.jettison:jettison;1.3.8;Реализация StAX для JSON.
+io.springfox:springfox-core;2.9.2;Документация по JSON API для Spring-приложений
+org.eclipse.jetty:jetty-jmx;9.4.24.v20191120;Артефакт управления JMX для пристани.
+org.apache.cxf:cxf-rt-rs-client;3.2.1;Клиент Apache CXF JAX-RS
+commons-io:commons-io;2.5;Commons-IO содержит служебные классы, реализации потоков, фильтры файлов и классы байтов.
+org.apache.camel:camel-core;2.20.2;Маршрутизатор на базе Core Camel POJO
+org.jooq:jool;0.9.10;JOOλ является частью серии jOOQ (наряду с jOOQ, jOOX, jOOR, jOOU), предоставляя некоторые полезные расширения для лямбд Java 8.
+org.springframework.boot:spring-boot-starter;1.5.2.RELEASE;Базовый стартер, включая поддержку автоконфигурации, протоколирование и YAML
+org.springframework:spring-jms;4.3.7.RELEASE;Spring Framework: JMS
+org.apache.camel:camel-milo;2.20.2;Поддержка Camel OPC UA
+com.google.j2objc:j2objc-annotations;1.1;Набор аннотаций, которые предоставляют дополнительную информацию переводчику J2ObjC для изменения результата перевода.
+org.springframework:spring-websocket;4.3.7.RELEASE;Spring WebSocket
+javax:javaee-api;7.0;JavaEE API
+io.springfox:springfox-swagger2;2.9.2;Документация по JSON API для Spring-приложений
+com.github.jai-imageio:jai-imageio-core;1.3.1;Ядро API Advanced Imaging Image I / O Tools, но без классов, связанных с зависимостями javax.media.jai, JPEG2000 или codecLibJIIO, что означает, что эта библиотека может распространяться по модифицированной лицензии BSD и должна быть совместима с GPL.
+org.eclipse.jetty.websocket:websocket-servlet;9.4.24.v20191120;Jetty :: Websocket :: Сервлет
+com.fasterxml.jackson.module:jackson-module-jaxb-annotations;2.8.7;JSON парсер для Java
+commons-pool:commons-pool;1.6;Пул соединений базы данных Commons
+com.github.atomashpolskiy:bt-core;1.7;Клиентская библиотека BitTorrent
+org.apache-extras.camel-extra:camel-jcifs;2.18.0;Компонент Camel JCIFS (SMB)
+org.apache.camel:camel-spring;2.20.2;Поддержка Camel Spring
+org.apache.camel:camel-http4;2.20.2;Поддержка Camel HTTP (Apache HttpClient 4.x)
+com.fasterxml.woodstox:woodstox-core;5.0.3;Woodstox - это высокопроизводительный процессор XML, который реализует API-интерфейсы Stax (JSR-173) и SAX2
+com.google.guava:guava;22.0;Guava - это набор базовых и расширенных библиотек, которые включают в себя служебные классы, коллекции Google, io-классы и многое другое.
+javax.annotation:javax.annotation-api;1.3;Общие аннотации для API платформы JavaTM
+org.eclipse.milo:stack-server;0.1.4;Milo - это реализация OPC UA с открытым исходным кодом. Он включает в себя высокопроизводительный стек (каналы, сериализацию, структуры данных, безопасность), а также клиентские и серверные SDK, построенные поверх стека.
+org.codehaus.woodstox:stax2-api;3.1.4;Stax2 API - это расширение базового API Stax 1.0, которое добавляет новые важные функции, такие как полнофункциональный интерфейс двунаправленной проверки и высокопроизводительный API Typed Access.
+org.apache.camel:camel-websocket;2.20.2;Camel WebSocket с использованием Jetty
+junit:junit;4.12;Этот файл является частью угрюмых модулей.
+org.eclipse.jetty.websocket:websocket-server;9.4.24.v20191120;Jetty :: Websocket :: Сервер
+net.sf.ezmorph:ezmorph;1.0.6;Простая библиотека Java для преобразования объекта в другой объект.
+net.bytebuddy:byte-buddy;1.8.12;Byte Buddy - это библиотека Java для создания классов Java во время выполнения.
+io.springfox:springfox-spi;2.9.2;Документация по JSON API для Spring-приложений
+org.apache.camel:camel-barcode;2.20.2;Поддержка Camel Barcode (например, QRcode, PDF417, DataMatrix)
+com.fasterxml:classmate;1.3.3;Библиотека для анализа типов с полной общей информацией, включая разрешение типов полей и методов
+com.vaadin.external.google:android-json;0.0.20131108.vaadin1;JSON (JavaScript Object Notation) - это легкий формат обмена данными.
+org.ehcache:ehcache;3.2.1;Ehcache - это чистый Java, внутрипроцессный кеш со следующими функциями: быстрый, простой, действует как подключаемый кеш для Hibernate 2.1.
+org.apache.kafka:kafka-clients;2.4.0;Апач Кафка

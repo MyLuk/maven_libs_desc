@@ -1,0 +1,552 @@
+antlr:antlr;2.7.7;Является мощным генератором парсера для чтения, обработки, выполнения или перевода структурированного текста или двоичных файлов
+aopalliance:aopalliance;1.0;Aopalliance
+args4j:args4j;2.0.31;Парсер аргументов командной строки Java
+ch.qos.logback:logback-classic;1.2.3;Logback: универсальная, надежная, быстрая и гибкая библиотека журналов для Java.
+ch.qos.logback:logback-core;1.2.3;Logback: универсальная, надежная, быстрая и гибкая библиотека журналов для Java.
+classworlds:classworlds;1.1-alpha-2;Платформа для разработчиков контейнеров, которые требуют сложных манипуляций с загрузчиками классов Java.
+com.atomikos:atomikos-util;4.0.4;Управление распределенными транзакциями
+com.atomikos:transactions;4.0.4;Управление распределенными транзакциями
+com.atomikos:transactions-api;4.0.4;Управление распределенными транзакциями
+com.atomikos:transactions-jdbc;4.0.4;Управление распределенными транзакциями
+com.atomikos:transactions-jms;4.0.4;Управление распределенными транзакциями
+com.atomikos:transactions-jta;4.0.4;Управление распределенными транзакциями
+com.beust:jcommander;1.48;Библиотека анализатора командной строки для Java
+com.codepoetics:protonpack;1.8;Коллекция утилит Stream для Java 8
+com.damnhandy:handy-uri-templates;2.1.6;Handy URI Templates - это совместимый с RFC6570 шаблонный процессор URI.
+com.fasterxml.jackson.core:jackson-annotations;2.6.3;JSON парсер для Java
+com.fasterxml.jackson.core:jackson-core;2.6.3;JSON парсер для Java
+com.fasterxml.jackson.core:jackson-databind;2.6.3;JSON парсер для Java
+com.fasterxml.jackson.dataformat:jackson-dataformat-xml;2.6.3;JSON парсер для Java
+com.fasterxml.jackson.dataformat:jackson-dataformat-yaml;2.8.7;Поддержка чтения и записи YAML-кодированных данных через абстракции Джексона.
+com.fasterxml.jackson.datatype:jackson-datatype-joda;2.8.7;Дополнительный модуль для Jackson (http://github.com/FasterXML/jackson) для поддержки типов данных Joda (https://www.joda.org/joda-time/).
+com.fasterxml.jackson.datatype:jackson-datatype-jsr310;2.6.3;Дополнительный модуль для поддержки типов данных JSR-310 (Java 8 Date and Time API).
+com.fasterxml.jackson.jaxrs:jackson-jaxrs-base;2.8.7;JSON парсер для Java
+com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider;2.8.7;JSON парсер для Java
+com.fasterxml.jackson.module:jackson-module-jaxb-annotations;2.6.3;JSON парсер для Java
+com.fasterxml.woodstox:woodstox-core;5.0.3;Woodstox - это высокопроизводительный процессор XML, который реализует API-интерфейсы Stax (JSR-173) и SAX2
+com.fasterxml:classmate;1.3.3;Библиотека для анализа типов с полной общей информацией, включая разрешение типов полей и методов
+com.fasterxml:classmate;1.5.1;Библиотека для анализа типов с полной общей информацией, включая разрешение типов полей и методов
+com.fazecast:jSerialComm;2.6.2;Независимая от платформы библиотека последовательной связи для Java.
+com.github.atomashpolskiy:bt-bencoding;1.7;Библиотека для разбора, кодирования и проверки закодированных документов в Java
+com.github.atomashpolskiy:bt-core;1.7;Клиентская библиотека BitTorrent
+com.github.atomashpolskiy:bt-dht;1.7;Mainline DHT (libmldht) адаптер для клиента Bt BitTorrent
+com.github.atomashpolskiy:bt-http-tracker-client;1.7;Библиотека для интеграции с HTTP BitTorrent-трекерами
+com.github.dozermapper:dozer-core;6.1.0;Преобразователь Java Bean в Java Bean, который рекурсивно копирует данные из одного объекта в другой.
+com.github.dozermapper:dozer-schema;6.1.0;Преобразователь Java Bean в Java Bean, который рекурсивно копирует данные из одного объекта в другой.
+com.github.everit-org.json-schema:org.everit.json.schema;1.6.0;Реализация спецификации JSON Schema Core Draft v4, созданной с помощью API org.json
+com.github.jai-imageio:jai-imageio-core;1.3.1;Ядро API Advanced Imaging Image I / O Tools, но без классов, связанных с зависимостями javax.media.jai, JPEG2000 или codecLibJIIO, что означает, что эта библиотека может распространяться по модифицированной лицензии BSD и должна быть совместима с GPL.
+com.github.jnr:jffi;1.2.15;Интерфейс внешних функций Java
+com.github.jnr:jffi;native;Интерфейс внешних функций Java
+com.github.jnr:jnr-constants;0.9.8;Набор констант платформы (например, значения errno)
+com.github.jnr:jnr-ffi;2.1.4;Библиотека для вызова нативных функций из Java
+com.github.jnr:jnr-posix;3.0.41;Общие кросс-проектные / кроссплатформенные API POSIX
+com.github.jnr:jnr-x86asm;1.0.2;Чисто-Java X86 и X86_64 ассемблер
+com.github.luben:zstd-jni;1.4.3-1;Привязки JNI для собственной библиотеки Zstd, которая обеспечивает быстрый и высокий алгоритм сжатия без потерь для Java и всех языков JVM.
+com.google.code.findbugs:annotations;1.3.9;Аннотация поддерживает инструмент FindBugs
+com.google.code.findbugs:annotations;2.0.1;Аннотация поддерживает инструмент FindBugs
+com.google.code.findbugs:jsr305;1.3.9;Поддержка проекта аннотации jsr305
+com.google.code.findbugs:jsr305;3.0.1;Поддержка проекта аннотации jsr305
+com.google.code.gson:gson;2.6.2;Библиотека Google Gson
+com.google.code.gson:gson;2.8.0;Библиотека Google Gson
+com.google.code.javaparser:javaparser;1.0.10;Парсер
+com.google.errorprone:error_prone_annotations;2.0.18;Подверженные ошибкам аннотации
+com.google.guava:guava;22.0;Guava - это набор базовых и расширенных библиотек, которые включают в себя служебные классы, коллекции Google, io-классы и многое другое.
+com.google.inject.extensions:guice-multibindings;4.1.0;Инструменты, внедряющие коллекции связанных значений
+com.google.inject:guice;4.0;Guice (произносится «сок») - это облегченная среда внедрения зависимостей для Java 5, представленная вам Google.
+com.google.inject:guice;4.1.0;Guice (произносится «сок») - это облегченная среда внедрения зависимостей для Java 5, представленная вам Google.
+com.google.j2objc:j2objc-annotations;1.1;Набор аннотаций, которые предоставляют дополнительную информацию переводчику J2ObjC для изменения результата перевода.
+com.google.zxing:core;3.3.0;Базовая библиотека кодирования / декодирования штрих-кода
+com.google.zxing:javase;3.3.0;Специфичные для Java SE расширения базовой библиотеки Zxing
+com.googlecode.javaewah:JavaEWAH;0.7.9;Структура данных битового массива реализована в Java как класс BitSet.
+com.googlecode.json-simple:json-simple;1.1.1;Простой инструментарий Java для JSON
+com.h2database:h2;1.4.193;H2 Database Engine
+com.ibm.mq:com.ibm.mq.allclient;9.0.4.0;Классы IBM MQ для Java и JMS.
+com.infradna.tool:bridge-method-annotation;1.13;Инъекции связующего метода
+com.jayway.jsonpath:json-path;2.2.0;Java-порт JsonPath.
+com.jcraft:jsch;0.1.53;JSch - это чистая Java-реализация SSH2
+com.jcraft:jsch;0.1.54;JSch - это чистая Java-реализация SSH2
+com.jcraft:jzlib;1.1.3-kohsuke-1;JZlib - это повторная реализация zlib в чистой Java
+com.kohlschutter.junixsocket:junixsocket-common;2.0.4;Публичный, основной API
+com.kohlschutter.junixsocket:junixsocket-native-common;2.0.4;Двоичные файлы нативной библиотеки JNI для общих платформ
+com.rabbitmq:amqp-client;4.2.1;Клиентская библиотека RabbitMQ Java позволяет коду Java взаимодействовать с серверами AMQP.
+com.rometools:rome;1.12.2;Все дороги ведут в Рим.
+com.rometools:rome-utils;1.12.2;Утилиты для проектов ROME
+com.sparkjava:spark-core;2.6.0;Вдохновленный Sinatra фреймворк Java
+com.squareup.okhttp3:okhttp;3.3.0;HTTP-клиент
+com.squareup.okio:okio;1.8.0;Современный I / O API для Java
+com.squareup.retrofit2:converter-gson;2.1.0;Конвертер Gson
+com.squareup.retrofit2:retrofit;2.1.0;Типобезопасный HTTP-клиент
+com.sun.codemodel:codemodel;2.6;Основные функциональные возможности библиотеки генерации исходного кода Java CodeModel
+com.sun.mail:javax.mail;1.5.6;JavaMail API
+com.sun.solaris:embedded_su4j;1.1;Embedded_su для Java
+com.sun.xml.bind:jaxb-core;2.2.11;Старый модуль JAXB Core.
+com.sun.xml.bind:jaxb-impl;2.2.11;Старый JAXB Runtime модуль.
+com.sun.xml.bind:jaxb-xjc;2.2.11;Старый JAXB Binding Compiler.
+com.sun.xml.txw2:txw2;20110809;TXW2 Runtime
+com.thoughtworks.xstream:xstream;1.4.10;Этот пакет просто оборачивает $ {pkgArtifactId} - $ {pkgVersion} .jar.
+com.thoughtworks.xstream:xstream;1.4.11.1;Этот пакет просто оборачивает $ {pkgArtifactId} - $ {pkgVersion} .jar.
+com.vaadin.external.google:android-json;0.0.20131108.vaadin1;JSON (JavaScript Object Notation) - это легкий формат обмена данными.
+commons-beanutils:commons-beanutils;1.9.2;Java Bean Utilities
+commons-codec:commons-codec;1.10;Пакет кодеков содержит простой кодер и декодеры для различных форматов, таких как Base64 и Hexadecimal.
+commons-collections:commons-collections;3.2.2;Типы, которые расширяют и дополняют Java Collections Framework.
+commons-dbcp:commons-dbcp;1.4;Пул соединений базы данных Commons
+commons-digester:commons-digester;2.1;Пакет Digester позволяет настроить модуль сопоставления объектов XML-Java, который запускает определенные действия, называемые правилами, при распознавании определенного шаблона вложенных элементов XML.
+commons-discovery:commons-discovery;0.4;Компонент Apache Commons Discovery предназначен для обнаружения или поиска реализаций подключаемых интерфейсов.
+commons-fileupload:commons-fileupload;1.2.2;Компонент FileUpload предоставляет простое, но гибкое средство добавления поддержки функции многоэтапной загрузки файлов в сервлеты и веб-приложения.
+commons-fileupload:commons-fileupload;1.3.1-jenkins-2;Компонент FileUpload предоставляет простое, но гибкое средство добавления поддержки функции многоэтапной загрузки файлов в сервлеты и веб-приложения.
+commons-httpclient:commons-httpclient;3.1;Компонент HttpClient поддерживает клиентскую часть RFC 1945 (HTTP / 1.0) и RFC 2616 (HTTP / 1.1), несколько связанных спецификаций (RFC 2109 (Cookies), RFC 2617 (HTTP-аутентификация) и т. Д.) И обеспечивает платформу
+commons-httpclient:commons-httpclient;3.1-jenkins-1;Компонент HttpClient поддерживает клиентскую часть RFC 1945 (HTTP / 1.0) и RFC 2616 (HTTP / 1.1), несколько связанных спецификаций (RFC 2109 (Cookies), RFC 2617 (HTTP-аутентификация) и т. Д.) И обеспечивает платформу
+commons-io:commons-io;2.4;Commons-IO содержит служебные классы, реализации потоков, фильтры файлов и классы байтов.
+commons-io:commons-io;2.5;Commons-IO содержит служебные классы, реализации потоков, фильтры файлов и классы байтов.
+commons-io:commons-io;2.6;Commons-IO содержит служебные классы, реализации потоков, фильтры файлов и классы байтов.
+commons-jelly:commons-jelly-tags-fmt;1.0;Библиотека Jelly fmt Tag
+commons-jelly:commons-jelly-tags-xml;1.1;Библиотека Jelly XML Tag
+commons-lang:commons-lang;2.6;Commons.Lang, пакет служебных классов Java для классов, которые находятся в иерархии java.lang или считаются настолько стандартными, чтобы оправдать существование в java.lang.
+commons-logging:commons-logging;1.0.3;Apache Commons Logging - это тонкий адаптер, позволяющий настраивать мостовое соединение с другими, хорошо известными системами ведения журналов
+commons-logging:commons-logging;1.0.4;Apache Commons Logging - это тонкий адаптер, позволяющий настраивать мостовое соединение с другими, хорошо известными системами ведения журналов
+commons-logging:commons-logging;1.1.1;Apache Commons Logging - это тонкий адаптер, позволяющий настраивать мостовое соединение с другими, хорошо известными системами ведения журналов
+commons-net:commons-net;3.6;Это Java-библиотека набора интернет-протоколов, изначально разработанная ORO, Inc. Эта версия поддерживает Finger, Whois, TFTP, Telnet, POP3, FTP, NNTP, SMTP и некоторые другие протоколы, такие как Time и Echo, а также поддержку команд BSD R. Цель библиотеки - обеспечить доступ к основному протоколу, а не к абстракциям более высокого уровня. Поэтому часть дизайна нарушает принципы объектно-ориентированного проектирования. Наша философия заключается в том, чтобы сделать глобальную функциональность протокольного доступа (например, отправляющий файл TFTP и принимаемый файл), когда это возможно, но также обеспечить доступ к основным протоколам, где это применимо, чтобы программист мог создавать свои собственные пользовательские реализации (например, TFTP). классы пакетов и методы отправки и получения пакетов TFTP). Изначально NetComponents был коммерческим продуктом, но после того, как ORO распался, его продолжали делать доступным для тех, кто нашел его полезным. Однако с момента версии 1.3.8, выпущенной в 1998 году, никаких обновлений сделано не было. Теперь, когда определенные обязательства по контракту истекли, можно сделать исходный код свободно доступным в рамках лицензии на программное обеспечение Apache.
+commons-pool:commons-pool;1.6;Пул соединений базы данных Commons
+commons-validator:commons-validator;1.6;Apache Commons Validator предоставляет строительные блоки как для проверки на стороне клиента, так и для проверки данных на стороне сервера.
+crypto:crypto-server-lib;5;Библиотека классов криптографических схем
+io.dropwizard.metrics:metrics-core;3.1.3;Metrics - это библиотека Java, которая дает вам беспрецедентное представление о том, что делает ваш код в производстве.
+io.dropwizard.metrics:metrics-core;3.2.4;Metrics - это библиотека Java, которая дает вам беспрецедентное представление о том, что делает ваш код в производстве.
+io.dropwizard.metrics:metrics-json;3.1.5;Набор модулей Джексона, которые предоставляют сериализаторы для большинства классов метрик.
+io.netty:netty-all;4.1.16.Final;Netty - это клиент-серверная инфраструктура NIO, которая позволяет быстро и легко разрабатывать сетевые приложения, такие как серверы протоколов и клиенты
+io.netty:netty-buffer;4.0.36.Final;Netty - это клиент-серверная инфраструктура NIO, которая позволяет быстро и легко разрабатывать сетевые приложения, такие как серверы протоколов и клиенты
+io.netty:netty-codec;4.0.36.Final;Netty - это клиент-серверная инфраструктура NIO, которая позволяет быстро и легко разрабатывать сетевые приложения, такие как серверы протоколов и клиенты
+io.netty:netty-common;4.0.36.Final;Netty - это клиент-серверная инфраструктура NIO, которая позволяет быстро и легко разрабатывать сетевые приложения, такие как серверы протоколов и клиенты
+io.netty:netty-handler;4.0.36.Final;Netty - это клиент-серверная инфраструктура NIO, которая позволяет быстро и легко разрабатывать сетевые приложения, такие как серверы протоколов и клиенты
+io.netty:netty-transport;4.0.36.Final;Netty - это клиент-серверная инфраструктура NIO, которая позволяет быстро и легко разрабатывать сетевые приложения, такие как серверы протоколов и клиенты
+io.springfox:springfox-core;2.9.2;Документация по JSON API для Spring-приложений
+io.springfox:springfox-schema;2.9.2;Документация по JSON API для Spring-приложений
+io.springfox:springfox-spi;2.9.2;Документация по JSON API для Spring-приложений
+io.springfox:springfox-spring-web;2.9.2;Документация по JSON API для Spring-приложений
+io.springfox:springfox-swagger2;2.9.2;Документация по JSON API для Spring-приложений
+io.springfox:springfox-swagger-common;2.9.2;Документация по JSON API для Spring-приложений
+io.springfox:springfox-swagger-ui;2.9.2;Документация по JSON API для Spring-приложений
+io.swagger:swagger-annotations;1.5.16;Swagger Аннотации
+io.swagger:swagger-annotations;1.5.20;Swagger Аннотации
+io.swagger:swagger-core;1.5.16;Swagger Core
+io.swagger:swagger-jaxrs;1.5.16;Swagger JAXRS
+io.swagger:swagger-models;1.5.20;Модели Swagger
+io.swagger:swagger-parser;1.0.30;Swagger Parser
+jarapac:jarapac;1.0.0;Независимая от транспорта клиентская и серверная среда для DCE / RPC в Java
+jarapac:jcifs;1.1.2;JCIFS - это клиентская библиотека с открытым исходным кодом, которая реализует сетевой протокол CIFS / SMB на 100% Java
+jarapac:ncacn_ip_tcp;1.0.0;Для идентификации TCP / IP как семейство протоколов для конечной точки
+javax.activation:activation;1.1;Среда активации JavaBeans (TM) используется API JavaMail (TM) для управления данными MIME
+javax.annotation:javax.annotation-api;1.2;Общие аннотации для API платформы JavaTM
+javax.annotation:javax.annotation-api;1.3;Общие аннотации для API платформы JavaTM
+javax.cache:cache-api;1.0.0;JSR107 API и SPI
+javax.el:javax.el-api;2.2.5;API языка выражений 3.0
+javax.inject:javax.inject;1;API javax.inject
+javax.jms:javax.jms-api;2.0.1;Jamas API
+javax.mail:mail;1.4.4;JavaMail API JAR
+javax.resource:javax.resource-api;1.7.1;Джава дал архитектуру разъема
+javax.servlet.jsp.jstl:javax.servlet.jsp.jstl-api;1.2.1;API библиотеки тегов JavaServer Pages (TM)
+javax.servlet:javax.servlet-api;3.1.0;API сервлетов Java
+javax.transaction:javax.transaction-api;1.2;API-интерфейс Project GlassFish для Java-транзакций
+javax.validation:validation-api;1.0.0.GA;API проверки бинов
+javax.validation:validation-api;1.1.0.Final;API проверки бинов
+javax.websocket:javax.websocket-api;1.0;JSR 356: Java API для WebSocket
+javax.websocket:javax.websocket-client-api;1.0;JSR
+javax.ws.rs:javax.ws.rs-api;2.1;Java API для веб-сервисов RESTful
+javax.ws.rs:jsr311-api;1.1.1;JSR311 API
+javax.xml.stream:stax-api;1.0-2;StAX API - это стандартный API обработки XML Java, определенный в JSR-173
+javax:javaee-api;7.0;JavaEE API
+jaxen:jaxen;1.1.6;Jaxen - это универсальный движок XPath для Java.
+jfree:jcommon;1.0.12;Библиотека классов общего назначения Java
+jfree:jfreechart;1.0.9;Библиотека диаграмм для платформы Java
+jline:jline;2.12;Библиотека Java для обработки ввода с консоли
+joda-time:joda-time;2.9.7;Библиотека даты и времени, чтобы заменить обработку даты JDK
+junit:junit;4.12;Этот файл является частью угрюмых модулей.
+log4j:log4j;1.2.9;Библиотека логирования
+log4j:log4j;1.2.16;Библиотека логирования
+net.bramp.ffmpeg:ffmpeg;0.6.2;Простая Java-оболочка для интерфейса командной строки FFmpeg
+net.bytebuddy:byte-buddy;1.8.12;Byte Buddy - это библиотека Java для создания классов Java во время выполнения.
+net.i2p.crypto:eddsa;0.2.0;Реализация EdDSA на Java
+net.java.dev.jna:jna;4.2.2;Собственный доступ к Java
+net.java.dev.jna:jna-platform;5.5.0;Платформа нативного доступа Java
+net.java.sezpoz:sezpoz;1.12;SezPoz Библиотека
+net.lingala.zip4j:zip4j;1.3.2;Zip4j - библиотека Java для zip-файлов и потоков
+net.minidev:accessors-smart;1.1;Java-рефлексы дают низкую производительность при вызове метода-получателя, вызываемого конструктором, средства доступа, использующие средства доступа, используют ASM для ускорения этих вызовов.
+net.minidev:json-smart;2.2.1;JSON (JavaScript Object Notation) - это легкий формат обмена данными.
+net.sf.ehcache:ehcache;2.10.3;Ehcache - это чистый Java, внутрипроцессный кеш со следующими функциями: быстрый, простой, действует как подключаемый кеш для Hibernate 2.1.
+net.sf.ezmorph:ezmorph;1.0.6;Простая библиотека Java для преобразования объекта в другой объект.
+net.sf.json-lib:json-lib;jdk15;Библиотека Java для преобразования bean-компонентов, карт и XML в JSON.
+net.sf.saxon:Saxon-HE;9.7.0-18;XSLT и XQuery Processor
+net.sourceforge.collections:collections-generic;4.01;Коллекции
+nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect;1.4.0;Диалект Thymeleaf, который позволяет вам использовать шаблоны макета / декоратора для оформления вашего контента.
+ognl:ognl;3.0.8;OGNL расшифровывается как Object-Graph Navigation Language
+org.abego.treelayout:org.abego.treelayout.core;1.0.1;Эффективный и настраиваемый алгоритм TreeLayout в Java.
+org.acegisecurity:acegi-security;1.0.7;Acegi Security Core
+org.antlr:antlr4-runtime;4.5;ANTLR 4 Runtime
+org.apache.activemq.protobuf:activemq-protobuf;1.1;Упрощенный протокол буфера Java API.
+org.apache.activemq:activemq-amqp;5.15.11;ActiveMQ реализация протокола обмена сообщениями AMQ
+org.apache.activemq:activemq-broker;5.15.11;Реализация ActiveMQ Message Broker
+org.apache.activemq:activemq-camel;5.15.11;ActiveMQ компонент для Camel
+org.apache.activemq:activemq-client;5.15.11;Реализация клиента ActiveMQ
+org.apache.activemq:activemq-http;5.15.11;Поддержка протокола ActiveMQ HTTP
+org.apache.activemq:activemq-jaas;5.15.11;Коллекция общих модулей входа в систему JAAS
+org.apache.activemq:activemq-jms-pool;5.15.11;Общий JMS-пул ConnectionFactory
+org.apache.activemq:activemq-kahadb-store;5.15.11;Реализация магазина ActiveMQ KahaDB
+org.apache.activemq:activemq-mqtt;5.15.11;Реализация протокола ActiveMQ MQTT
+org.apache.activemq:activemq-openwire-legacy;5.15.11;Модуль поддержки ActiveMQ Openwire Legacy
+org.apache.activemq:activemq-pool;5.15.11;ActiveMQ пул соединений фабрика
+org.apache.activemq:activemq-spring;5.15.11;ActiveMQ Spring Integration
+org.apache.activemq:activemq-stomp;5.15.11;Реализация протокола ActiveMQ STOMP
+org.apache.activemq:activemq-web;5.15.11;Web Connector для REST API и поддержка Streamlets
+org.apache.ant:ant;1.8.4;Сборщик Apache Ant Core
+org.apache.ant:ant-launcher;1.8.4;Apache Ant Launcher
+org.apache.camel:camel-barcode;2.20.2;Поддержка Camel Barcode (например, QRcode, PDF417, DataMatrix)
+org.apache.camel:camel-base64;2.20.2;Поддержка формата данных Camel Base64
+org.apache.camel:camel-cache;2.20.2;Поддержка Camel Cache на основе ehCache
+org.apache.camel:camel-core;2.20.1;Маршрутизатор на базе Core Camel POJO
+org.apache.camel:camel-core;2.20.2;Маршрутизатор на базе Core Camel POJO
+org.apache.camel:camel-crypto;2.1.0;Криптографическая поддержка Camel
+org.apache.camel:camel-csv;2.20.2;Поддержка Camel CSV
+org.apache.camel:camel-cxf;2.20.2;Поддержка Camel CXF
+org.apache.camel:camel-cxf-transport;2.20.2;Верблюжий транспорт для Apache CXF
+org.apache.camel:camel-dozer;2.20.2;Поддержка брокера для системы преобразования типов Dozer
+org.apache.camel:camel-ehcache;2.20.2;Поддержка Camel Ehcache
+org.apache.camel:camel-exec;2.20.2;Поддержка верблюдов для выполнения системных команд
+org.apache.camel:camel-ftp;2.20.2;Поддержка Camel FTP
+org.apache.camel:camel-ftp-server;1.1.0;Маршрутизатор на базе Core Camel Java DSL
+org.apache.camel:camel-groovy;2.20.2;Поддержка Camel Groovy
+org.apache.camel:camel-http4;2.20.2;Поддержка Camel HTTP (Apache HttpClient 4.x)
+org.apache.camel:camel-http-common;2.20.2;Верблюд HTTP общий
+org.apache.camel:camel-jackson;2.20.2;Поддержка брокера Джексона
+org.apache.camel:camel-jaxb;2.20.2;Поддержка Camel JAXB
+org.apache.camel:camel-jetty9;2.20.2;Поддержка Camel Jetty9
+org.apache.camel:camel-jetty-common;2.20.2;Поддержка Camel Jetty 9.x
+org.apache.camel:camel-jms;2.20.2;Поддержка Camel JMS
+org.apache.camel:camel-jpa;2.21.1;Поддержка Camel JPA
+org.apache.camel:camel-json-validator;2.20.2;Проверка схемы JSON Camel на основе библиотеки SON-схемы NetworkNT
+org.apache.camel:camel-kafka;2.20.2;Поддержка Camel Kafka
+org.apache.camel:camel-ldap;2.20.2;Поддержка Camel LDAP
+org.apache.camel:camel-leveldb;2.15.2;Использование LevelDB в качестве постоянного хранилища EIP
+org.apache.camel:camel-mail;2.20.2;Поддержка Camel Mail
+org.apache.camel:camel-metrics;2.20.2;Компонент мониторинга на основе Camel Metrics
+org.apache.camel:camel-milo;2.20.2;Поддержка Camel OPC UA
+org.apache.camel:camel-mina2;2.20.2;Поддержка Camel MINA 2.x
+org.apache.camel:camel-netty4;2.20.2;Компонент связи на основе сокета Camel Netty NIO
+org.apache.camel:camel-printer;2.20.2;Поддержка принтеров Camel
+org.apache.camel:camel-rabbitmq;2.20.2;Camel RabbitMQ Component
+org.apache.camel:camel-rest-swagger;2.20.2;Поддержка Camel REST с использованием Swagger
+org.apache.camel:camel-saxon;2.20.2;Поддержка Camel SAXON
+org.apache.camel:camel-script;2.20.2;Поддержка Camel Script
+org.apache.camel:camel-sjms;2.20.2;Чистый Java JMS Camel Component
+org.apache.camel:camel-spark-rest;2.20.2;Поддержка Camel Spark (REST DSL)
+org.apache.camel:camel-spring;2.20.1;Поддержка Camel Spring
+org.apache.camel:camel-spring;2.20.2;Поддержка Camel Spring
+org.apache.camel:camel-spring-ws;2.20.2;Поддержка Camel для Spring Web Services
+org.apache.camel:camel-sql;2.20.2;Поддержка Camel SQL
+org.apache.camel:camel-ssh;2.20.2;Поддержка Camel SSH
+org.apache.camel:camel-stream;2.20.2;Поддержка Camel Stream (System.in, System.out, System.err)
+org.apache.camel:camel-swagger-java;2.20.2;Поддержка Rest-DSL для использования Swagger API-DOC
+org.apache.camel:camel-syslog;2.20.2;Поддержка Camel Syslog
+org.apache.camel:camel-telegram;2.20.2;Поддержка Camel Telegram
+org.apache.camel:camel-test;2.20.2;Camel юнит тестирование
+org.apache.camel:camel-websocket;2.20.2;Camel WebSocket с использованием Jetty
+org.apache.camel:camel-xmljson;2.20.2;Формат данных Camel XML JSON
+org.apache.camel:camel-xstream;2.20.2;Поддержка Camel XStream
+org.apache.camel:camel-zipfile;2.20.2;Поддержка Camel Zip файлов
+org.apache.commons:commons-collections4;4.2;Пакет Apache Commons Collections содержит типы, которые расширяют и дополняют Java Collections Framework.
+org.apache.commons:commons-compress;1.9;Commons Compress - это компонент, содержащий пакеты Ar, Cpio, Jar, Tar, Zip и BZip2.
+org.apache.commons:commons-compress;1.10;Commons Compress - это компонент, содержащий пакеты Ar, Cpio, Jar, Tar, Zip и BZip2.
+org.apache.commons:commons-compress;1.20;Commons Compress - это компонент, содержащий пакеты Ar, Cpio, Jar, Tar, Zip и BZip2.
+org.apache.commons:commons-csv;1.5;Этот пакет просто оборачивает $ {pkgArtifactId} - $ {pkgVersion} .jar.
+org.apache.commons:commons-exec;1.3;Библиотека для надежного выполнения внешних процессов внутри JVM
+org.apache.commons:commons-lang3;3.5;Apache Commons Lang, пакет служебных классов Java для классов, которые находятся в иерархии java.lang или считаются настолько стандартными, чтобы оправдать существование в java.lang.
+org.apache.commons:commons-lang3;3.9;Apache Commons Lang, пакет служебных классов Java для классов, которые находятся в иерархии java.lang или считаются настолько стандартными, чтобы оправдать существование в java.lang.
+org.apache.commons:commons-math3;3.6.1;Проект Apache Commons Math - это библиотека легких, самостоятельных компонентов математики и статистики, предназначенных для решения наиболее распространенных практических проблем, которые не всегда доступны в языке программирования Java или Commons-Lang.
+org.apache.commons:commons-pool2;2.4.2;Библиотека пула объектов Apache Commons.
+org.apache.commons:commons-text;1.8;Apache Commons Text - это библиотека, ориентированная на алгоритмы, работающие со строками.
+org.apache.cxf:cxf-core;3.2.4;Apache CXF Core
+org.apache.cxf:cxf-core;3.2.11;Apache CXF Core
+org.apache.cxf:cxf-rt-bindings-soap;3.2.1;Привязка времени выполнения Apache CXF
+org.apache.cxf:cxf-rt-bindings-xml;3.2.1;Привязка времени выполнения Apache CXF
+org.apache.cxf:cxf-rt-databinding-jaxb;3.2.1;Apache CXF Runtime JAXB DataBinding
+org.apache.cxf:cxf-rt-frontend-jaxrs;3.2.1;Apache CXF Runtime JAX-RS Фронтенд
+org.apache.cxf:cxf-rt-frontend-jaxws;3.2.1;Apache CXF Runtime JAX-WS Frontend
+org.apache.cxf:cxf-rt-frontend-simple;3.2.1;Apache CXF Runtime Простой интерфейс
+org.apache.cxf:cxf-rt-rs-client;3.2.1;Клиент Apache CXF JAX-RS
+org.apache.cxf:cxf-rt-transports-http;3.2.11;Apache CXF Runtime HTTP Transport
+org.apache.cxf:cxf-rt-transports-http-jetty;3.2.11;Apache CXF Runtime HTTP Jetty Transport
+org.apache.cxf:cxf-rt-ws-addr;3.2.1;Apache CXF Runtime WS Адресация
+org.apache.cxf:cxf-rt-ws-policy;3.2.1;Политика Apache CXF Runtime WS
+org.apache.cxf:cxf-rt-wsdl;3.2.1;Apache CXF Runtime Core для технологий на основе WSDL
+org.apache.ftpserver:ftplet-api;1.1.1;Ftplets, как и сервлеты, представляют собой API-интерфейс для подключения к жизненному циклу запросов FtpServer.
+org.apache.ftpserver:ftpserver-core;1.1.1;Apache FtpServer Core
+org.apache.geronimo.specs:geronimo-j2ee-management_1.1_spec;1.0.1;J2EE Management 1.1
+org.apache.geronimo.specs:geronimo-jms_1.1_spec;1.1.1;JMS 1.1
+org.apache.geronimo.specs:geronimo-jms_2.0_spec;1.0-alpha-2;API Java Message Service 2.0
+org.apache.geronimo.specs:geronimo-jta_1.1_spec;1.1.1;Зота 1,5
+org.apache.httpcomponents:httpclient;4.5.3;Библиотека Java и клиент командной строки для высокопроизводительной параллельной загрузки / выгрузки через HTTP / HTTPS.
+org.apache.httpcomponents:httpcore;4.4.6;HttpComponents Core (совместимый с Java 1.3)
+org.apache.ignite:ignite-core;2.5.0;Промежуточное программное обеспечение на основе Java для обработки больших данных в памяти в распределенной среде.
+org.apache.ignite:ignite-indexing;2.5.0;Промежуточное программное обеспечение на основе Java для обработки больших данных в памяти в распределенной среде.
+org.apache.ignite:ignite-spring;2.5.0;Промежуточное программное обеспечение на основе Java для обработки больших данных в памяти в распределенной среде.
+org.apache.kafka:kafka-clients;2.4.0;Апач Кафка
+org.apache.lucene:lucene-analyzers-common;5.5.2;Дополнительные анализаторы
+org.apache.lucene:lucene-core;5.5.2;Apache Lucene Java Core
+org.apache.lucene:lucene-queries;5.5.2;Модуль Lucene Queries
+org.apache.lucene:lucene-queryparser;5.5.2;Модуль Lucene QueryParsers
+org.apache.lucene:lucene-sandbox;5.5.2;Lucene Sandbox
+org.apache.mina:mina-core;2.0.16;Apache MINA Core 3.0.0 M2
+org.apache.mina:mina-core;2.0.19;Apache MINA Core 3.0.0 M2
+org.apache.neethi:neethi;3.1.0;POM был создан из install: install-file
+org.apache.qpid:proton-j;0.33.2;Высокопроизводительная, легковестная библиотека обмена сообщениями
+org.apache.santuario:xmlsec;2.1.2;Этот пакет просто оборачивает $ {pkgArtifactId} - $ {pkgVersion} .jar.
+org.apache.sshd:sshd-core;1.6.0;Библиотека Java для поддержки протоколов SSH на стороне клиента и сервера
+org.apache.ws.xmlschema:xmlschema-core;2.2.3;Commons XMLSchema - это легковесная объектная модель схемы, которую можно использовать для управления или генерации схемы XML.
+org.apache.ws.xmlschema:xmlschema-core;2.2.4;Commons XMLSchema - это легковесная объектная модель схемы, которую можно использовать для управления или генерации схемы XML.
+org.apache.xbean:xbean-spring;4.14;Xbean-spring предоставляет управляемый схемой проприетарный обработчик пространства имен для контекстов Spring
+org.apache.xmlbeans:xmlbeans;3.1.0;Основная банка XmlBeans
+org.apache-extras.camel-extra:camel-jcifs;2.18.0;Компонент Camel JCIFS (SMB)
+org.aspectj:aspectjweaver;1.8.9;Ткач AspectJ представляет советы для классов Java
+org.assertj:assertj-core;2.6.0;Богатые и беглые утверждения для тестирования на Java
+org.bouncycastle:bcpg-jdk15on;1.57;Java API Bouncy Castle для обработки протокола OpenPGP.
+org.bouncycastle:bcpkix-jdk15on;1.57;Java API Bouncy Castle для CMS, PKCS, EAC, TSP, CMP, CRMF, OCSP и генерации сертификатов.
+org.bouncycastle:bcprov-jdk15on;1.60;Пакет Bouncy Castle Crypto представляет собой Java-реализацию криптографических алгоритмов.
+org.codehaus.groovy:groovy;2.4.9;Gant - это инструмент сборки для сценариев задач Ant, использующий Groovy вместо XML для определения логики сборки.
+org.codehaus.groovy:groovy-all;2.4.5;Groovy: мощный, динамичный язык для JVM
+org.codehaus.groovy:groovy-all;2.4.9;Groovy: мощный, динамичный язык для JVM
+org.codehaus.jackson:jackson-core-asl;1.9.13;Маппер
+org.codehaus.jackson:jackson-mapper-asl;1.9.13;Data Mapper - это высокопроизводительный пакет привязки данных, построенный на процессоре JSON JSON.
+org.codehaus.jettison:jettison;1.3.8;Реализация StAX для JSON.
+org.codehaus.mojo:animal-sniffer-annotations;1.14;Животные Sniffer Аннотации
+org.codehaus.plexus:plexus-archiver;2.2;Компонент архиватора Plexus
+org.codehaus.plexus:plexus-container-default;1.0-alpha-9-stable-1;Контейнерный API-интерфейс Plexus IoC и его реализация по умолчанию.
+org.codehaus.plexus:plexus-io;2.0.4;Компоненты сплетения IO
+org.codehaus.plexus:plexus-utils;3.0.7;Коллекция различных служебных классов для облегчения работы со строками, файлами, командными строками, XML и многим другим.
+org.codehaus.woodstox:stax2-api;3.1.4;Stax2 API - это расширение базового API Stax 1.0, которое добавляет новые важные функции, такие как полнофункциональный интерфейс двунаправленной проверки и высокопроизводительный API Typed Access.
+org.codehaus.woodstox:woodstox-core-asl;4.4.1;Woodstox - это высокопроизводительный процессор XML, который реализует API-интерфейсы Stax (JSR-173) и SAX2
+org.codehaus.woodstox:wstx-asl;3.2.9;Библиотека для маппинга
+org.connectbot.jbcrypt:jbcrypt;1.0.0;Реализация алгоритма хеширования паролей в OpenBSD Blowfish
+org.eclipse.jetty.websocket:javax-websocket-client-impl;9.4.24.v20191120;Javax WebSocket Client
+org.eclipse.jetty.websocket:javax-websocket-server-impl;9.4.24.v20191120;Javax WebSocket Server Impl
+org.eclipse.jetty.websocket:websocket-api;9.4.24.v20191120;Jetty :: Websocket :: API
+org.eclipse.jetty.websocket:websocket-client;9.4.24.v20191120;Jetty :: Websocket :: Клиент
+org.eclipse.jetty.websocket:websocket-common;9.4.24.v20191120;Jetty :: Websocket :: Common
+org.eclipse.jetty.websocket:websocket-server;9.4.24.v20191120;Jetty :: Websocket :: Сервер
+org.eclipse.jetty.websocket:websocket-servlet;9.4.24.v20191120;Jetty :: Websocket :: Сервлет
+org.eclipse.jetty:jetty-annotations;9.4.24.v20191120;Аннотация поддержки для развертывания сервлетов в пристани.
+org.eclipse.jetty:jetty-client;9.4.24.v20191120;Jetty :: Асинхронный HTTP-клиент
+org.eclipse.jetty:jetty-continuation;9.4.24.v20191120;Асинхронный API
+org.eclipse.jetty:jetty-http;9.4.24.v20191120;Jetty :: Http Utility
+org.eclipse.jetty:jetty-io;9.4.24.v20191120;Jetty :: IO Utility
+org.eclipse.jetty:jetty-jmx;9.4.24.v20191120;Артефакт управления JMX для пристани.
+org.eclipse.jetty:jetty-jndi;9.4.24.v20191120;JNDI spi impl для пространства имен Java.
+org.eclipse.jetty:jetty-plus;9.4.24.v20191120;Услуги в стиле Jetty JavaEE
+org.eclipse.jetty:jetty-security;9.4.24.v20191120;Инфраструктура безопасности причала
+org.eclipse.jetty:jetty-server;9.4.24.v20191120;Основной артефакт сервера Jetty.
+org.eclipse.jetty:jetty-servlet;9.4.24.v20191120;Контейнер для сервлетов Jetty
+org.eclipse.jetty:jetty-servlets;9.4.24.v20191120;Сервисные сервлеты от Jetty
+org.eclipse.jetty:jetty-util;9.4.24.v20191120;Утилиты для Jetty
+org.eclipse.jetty:jetty-webapp;9.4.24.v20191120;Поддержка веб-приложений Jetty
+org.eclipse.jetty:jetty-xml;9.4.24.v20191120;Пристани xml утилиты.
+org.eclipse.jgit:org.eclipse.jgit.http.apache;4.5.2.201704071617-r;Поддержка HTTP на основе Apache httpclient
+org.eclipse.jgit:org.eclipse.jgit.http.server;4.5.2.201704071617-r;Git осознает реализацию HTTP-сервера.
+org.eclipse.jgit:org.eclipse.jgit;4.5.2.201704071617-r;Доступ к репозиторию и алгоритмы
+org.eclipse.milo:sdk-client;0.1.4;SDK Client
+org.eclipse.milo:sdk-core;0.1.4;Milo - это реализация OPC UA с открытым исходным кодом. Он включает в себя высокопроизводительный стек (каналы, сериализацию, структуры данных, безопасность), а также клиентские и серверные SDK, построенные поверх стека.
+org.eclipse.milo:sdk-server;0.1.4;SDK Server
+org.eclipse.milo:stack-client;0.1.4;Клиент стека
+org.eclipse.milo:stack-core;0.1.4;Ядро стека
+org.eclipse.milo:stack-server;0.1.4;Milo - это реализация OPC UA с открытым исходным кодом. Он включает в себя высокопроизводительный стек (каналы, сериализацию, структуры данных, безопасность), а также клиентские и серверные SDK, построенные поверх стека.
+org.ehcache:ehcache;3.2.1;Ehcache - это чистый Java, внутрипроцессный кеш со следующими функциями: быстрый, простой, действует как подключаемый кеш для Hibernate 2.1.
+org.fusesource.hawtbuf:hawtbuf;1.11;HawtBuf
+org.fusesource.hawtdispatch:hawtdispatch;1.22;HawtDispatch: API стиля libdispatch для Java
+org.fusesource.hawtdispatch:hawtdispatch-transport;1.22;HawtDispatch Transport: Транспортные абстракции для HawtDispatch
+org.fusesource.hawtjni:hawtjni-runtime;1.9;API, который проектирует с использованием HawtJNI, должен создавать против него.
+org.fusesource.jansi:jansi;1.11;Jansi - это Java-библиотека для генерации и интерпретации escape-последовательностей ANSI.
+org.fusesource.leveldbjni:leveldbjni;1.8;Uber jar, который содержит все библиотеки и зависимости платформы leveldbjni
+org.fusesource.leveldbjni:leveldbjni-all;1.8;Uber jar, который содержит все библиотеки и зависимости платформы leveldbjni
+org.fusesource.mqtt-client:mqtt-client;1.15;Mqtt-client предоставляет лицензированный API ASL 2.0 для MQTT.
+org.glassfish.web:javax.el;2.2.5;Реализация языка выражения 2.2
+org.gridgain:ignite-shmem;1.0.0;Библиотека IPC с общей памятью для Apache Ignite.
+org.hamcrest:hamcrest-core;1.3;Core Hamcrest API - устарел, используйте вместо него «hamcrest»
+org.hamcrest:hamcrest-library;1.3;Библиотека совпадений Hamcrest - устарела, используйте вместо нее hamcrest
+org.hibernate:hibernate-validator;4.3.1.Final;Следуя принципу СУХОЙ (не повторять себя), Hibernate Validator позволяет вам выражать ограничения вашего домена один раз (и только один раз) и автоматически обеспечивать их соответствие на различных уровнях вашей системы.
+org.hibernate:hibernate-validator;5.3.4.Final;Следуя принципу СУХОЙ (не повторять себя), Hibernate Validator позволяет вам выражать ограничения вашего домена один раз (и только один раз) и автоматически обеспечивать их соответствие на различных уровнях вашей системы.
+org.iq80.leveldb:leveldb-api;0.6;Java API высокого уровня для LevelDB
+org.javassist:javassist;3.21.0-GA;Javassist (помощник по программированию на Java) - это отражающая система времени загрузки для Java.
+org.jboss.logging:jboss-logging;3.3.0.Final;Каркас JBoss Logging
+org.jdom:jdom2;2.0.6;Полное решение на основе Java для доступа, манипулирования и вывода данных XML
+org.jenkins-ci.dom4j:dom4j;1.6.1-jenkins-4;Объектная модель документа XML на основе Java Collections Framework
+org.jenkins-ci.main:cli;2.97;Дженкинс файл для работы с командной строкой
+org.jenkins-ci.main:jenkins-core;2.97;Код ядра Jenkins и просмотр файлов для визуализации HTML.
+org.jenkins-ci.main:remoting;3.14;Содержит загрузочный код для объединения отдельных виртуальных машин Java в одно пространство с общим доступом.
+org.jenkins-ci.plugins.icon-shim:icon-set;1.0.5;Содержит код набора иконок Jenkins, на который полагаются как Jenkins Core, так и плагин icon shim.
+org.jenkins-ci.plugins.workflow:workflow-scm-step;1.14.2;Родительский проект POM для плагинов Jenkins
+org.jenkins-ci.plugins.workflow:workflow-step-api;1.14.2;Родительский проект POM для плагинов Jenkins
+org.jenkins-ci.plugins:credentials;2.1.14;Этот плагин позволяет хранить учетные данные в Jenkins.
+org.jenkins-ci.plugins:display-url-api;0.2;Предоставляет точку расширения DisplayURLProvider для предоставления альтернативных URL-адресов для использования в уведомлениях.
+org.jenkins-ci.plugins:git;3.6.4;Интегрирует Jenkins с Git SCM
+org.jenkins-ci.plugins:git-client;2.5.0;Утилита плагин для поддержки Git в Jenkins
+org.jenkins-ci.plugins:junit;1.2;Библиотека тестирования
+org.jenkins-ci.plugins:mailer;1.18;Этот плагин позволяет настроить уведомления по электронной почте для результатов сборки
+org.jenkins-ci.plugins:matrix-project;1.7.1;Многоконфигурационный (матричный) тип проекта.
+org.jenkins-ci.plugins:scm-api;2.2.0;Этот плагин предоставляет новый расширенный API для взаимодействия с системами SCM.
+org.jenkins-ci.plugins:script-security;1.13;Позволяет администраторам Jenkins контролировать, какие внутрипроцессные сценарии могут запускаться пользователями с меньшими правами.
+org.jenkins-ci.plugins:ssh-credentials;1.13;Позволяет хранить учетные данные SSH в Jenkins
+org.jenkins-ci.plugins:structs;1.10;Плагин библиотеки для плагинов DSL, которым нужны имена для объектов Jenkins.
+org.jenkins-ci:annotation-indexer;1.12;Создает индекс аннотаций.
+org.jenkins-ci:bytecode-compatibility-transformer;1.8;Библиотека на основе преобразования байт-кода для управления обратной совместимостью
+org.jenkins-ci:commons-jelly;1.1-jenkins-20120928;Java и XML на основе сценариев и обработки для превращения XML в исполняемый код
+org.jenkins-ci:commons-jexl;1.1-jenkins-20111212;Реализация языка выражений JSTL с расширениями
+org.jenkins-ci:constant-pool-scanner;1.2;Простая утилита для сканирования байт-кода Java на наличие ссылок на классы в пуле констант.
+org.jenkins-ci:crypto-util;1.1;Эта библиотека предоставляет набор классов, которые упрощают использование крипто-библиотеки Java
+org.jenkins-ci:jmdns;3.4.0-jenkins-3;Многоадресная реализация DNS для Java
+org.jenkins-ci:memory-monitor;1.9;Код для мониторинга использования памяти / подкачки
+org.jenkins-ci:symbol-annotation;1.1;Родительский проект POM для плагинов Jenkins
+org.jenkins-ci:task-reactor;1.4;Реактор Дженкинса
+org.jenkins-ci:trilead-ssh2;build-217-jenkins-11;Ganymed SSH2 для Java - это библиотека, которая реализует протокол SSH-2 в чистой Java
+org.jenkins-ci:version-number;1.4;Предлагает API-классы для анализа и сравнения номеров версий
+org.jetbrains:annotations;16.0.2;Набор аннотаций, используемых для поддержки проверки кода и документирования кода.
+org.jetbrains:annotations;19.0.0;Набор аннотаций, используемых для поддержки проверки кода и документирования кода.
+org.jooq:jool;0.9.10;JOOλ является частью серии jOOQ (наряду с jOOQ, jOOX, jOOR, jOOU), предоставляя некоторые полезные расширения для лямбд Java 8.
+org.jooq:jooq;3.9.1;JOOQ
+org.jooq:jooq-meta;3.9.1;XOK Next
+org.jooq:joox;1.4.0;JOOX - это рекурсивная аббревиатура, обозначающая jOOX Object Oriented XML.
+org.jruby.ext.posix:jna-posix;1.0.3-jenkins-1;Общие кросс-проектные / кроссплатформенные API POSIX
+org.json:json;20190722;JSON - это легкий, независимый от языка формат обмена данными.
+org.jsonschema2pojo:jsonschema2pojo-core;1.0.2;Jsonschema2pojo Core
+org.jsonschema2pojo:jsonschema2pojo-scalagen;1.0.2;Jsonschema2pojo скаляры
+org.jsoup:jsoup;1.11.3;Jsoup - это библиотека Java для работы с реальным HTML.
+org.jvnet.hudson:activation;1.1.1-hudson-1;Java Activation Framework с патчем
+org.jvnet.hudson:commons-jelly-tags-define;1.0.1-hudson-20071021;Библиотека тегов Jelly Define
+org.jvnet.hudson:jtidy;4aug2000r7-dev-hudson-1;JTidy - это Java-порт HTML Tidy, средство проверки синтаксиса HTML и симпатичный принтер. Как и его двоюродный брат, не являющийся Java, JTidy можно использовать в качестве инструмента для очистки искаженного и неисправного HTML. Кроме того, JTidy предоставляет анализатор DOM для реального HTML
+org.jvnet.hudson:xstream;1.4.7-jenkins-1;XStream Core
+org.jvnet.localizer:localizer;1.24;Локализатор
+org.jvnet.robust-http-client:robust-http-client;1.2;Надежная клиентская библиотека HTTP
+org.jvnet.winp:winp;1.25;Убить дерево процессов в Windows
+org.jvnet:tiger-types;2.2;Тип Арифметическая библиотека для Java5
+org.kohsuke.jinterop:j-interop;2.0.6-kohsuke-1;Чистый Java COM Bridge
+org.kohsuke.jinterop:j-interopdeps;2.0.6-kohsuke-1;Чистый Java COM Bridge
+org.kohsuke.stapler:json-lib;2.4-jenkins-2;Org.kohsuke.stapler:json-lib
+org.kohsuke.stapler:stapler;1.254;Механизм обработки HTTP-запросов степлера
+org.kohsuke.stapler:stapler-adjunct-codemirror;1.3;Степлер Дополнение CodeMirror
+org.kohsuke.stapler:stapler-adjunct-timeline;1.5;Временная шкала сшивателя
+org.kohsuke.stapler:stapler-adjunct-zeroclipboard;1.3.5-1;Степлер Адъюнкт для ZeroClipboard
+org.kohsuke.stapler:stapler-groovy;1.254;Механизм обработки HTTP-запросов
+org.kohsuke.stapler:stapler-jelly;1.254;Желейный переплет для степлера
+org.kohsuke.stapler:stapler-jrebel;1.254;Поддержка перезагрузки JRebel для степлера
+org.kohsuke:access-modifier-annotation;1.12;Пользовательские аннотации модификатора доступа
+org.kohsuke:akuma;1.10;Встраиваемая библиотека демонизации
+org.kohsuke:asm5;5.0.1;Пакет ObjectWeb ASM переименован для изоляции несовместимостей между основными версиями.
+org.kohsuke:groovy-sandbox;1.8;Выполняет ненадежный скрипт Groovy безопасно
+org.kohsuke:libpam4j;1.8;Libpam4j
+org.kohsuke:libzfs;0.8;Libzfs для Java
+org.kohsuke:trilead-putty-extension;1.2;Загружает ключ SSH в формате PuTTY
+org.kohsuke:windows-package-checker;1.2;Windows Package Checker
+org.lz4:lz4-java;1.6.0;Java-порты и привязки алгоритма сжатия LZ4 и алгоритма хеширования xxHash
+org.mapstruct:mapstruct;1.2.0.Final;MapStruct Core
+org.mockftpserver:MockFtpServer;2.7.1;Проект MockFtpServer предоставляет фиктивный / фиктивный FTP-сервер для тестирования клиентского кода FTP.
+org.mockito:mockito-all;1.10.19;Библиотека фиктивных объектов для Java
+org.mockito:mockito-core;1.10.19;API и реализация библиотеки Mockito Mock Objects Core
+org.modelmapper:modelmapper;0.7.7;ModelMapper
+org.mortbay.jasper:apache-el;8.0.33;MortBay :: Apache EL :: API и реализация
+org.objenesis:objenesis;2.1;Библиотека для создания экземпляров объектов Java
+org.ow2.asm:asm;5.0.3;Очень маленькая и быстрая среда манипулирования байт-кодом Java
+org.ow2.asm:asm;5.2;Очень маленькая и быстрая среда манипулирования байт-кодом Java
+org.ow2.asm:asm;7.2;Очень маленькая и быстрая среда манипулирования байт-кодом Java
+org.ow2.asm:asm-analysis;5.0.3;API статического анализа кода ASM, очень маленькая и быстрая среда манипулирования байт-кодом Java
+org.ow2.asm:asm-analysis;7.2;API статического анализа кода ASM, очень маленькая и быстрая среда манипулирования байт-кодом Java
+org.ow2.asm:asm-commons;5.0.3;Очень маленькая и быстрая среда манипулирования байт-кодом Java
+org.ow2.asm:asm-commons;7.2;Очень маленькая и быстрая среда манипулирования байт-кодом Java
+org.ow2.asm:asm-tree;5.0.3;Tree API ASM, очень маленькая и быстрая среда манипулирования байт-кодом Java
+org.ow2.asm:asm-tree;7.2;Tree API ASM, очень маленькая и быстрая среда манипулирования байт-кодом Java
+org.ow2.asm:asm-util;5.0.3;Утилиты для ASM, очень маленькая и быстрая среда манипулирования байт-кодом Java
+org.projectlombok:lombok;1.16.12;Приправьте Java: автоматическое управление ресурсами, автоматическая генерация методов получения, установки, равенства, hashCode и toString и многое другое!
+org.projectlombok:lombok;1.18.0;Приправьте Java: автоматическое управление ресурсами, автоматическая генерация методов получения, установки, равенства, hashCode и toString и многое другое!
+org.projectlombok:lombok;1.18.4;Приправьте Java: автоматическое управление ресурсами, автоматическая генерация методов получения, установки, равенства, hashCode и toString и многое другое!
+org.reflections:reflections;0.9.10;Размышления - анализ метаданных среды выполнения Java
+org.rnorth.duct-tape:duct-tape;1.0.8;Универсальные утилиты устойчивости для Java 8 (прерыватели, тайм-ауты, ограничители скорости и обработчики для ненадежных или противоречивых результатов)
+org.rnorth.visible-assertions:visible-assertions;2.1.2;Более богатая регистрация для тестовых наборов Java
+org.rnorth:tcp-unix-socket-proxy;1.0.2;Прослушивает порт TCP и прокси-соединения к сокету домена UNIX.
+org.samba.jcifs:jcifs;1.2.19;JCIFS - это клиентская библиотека с открытым исходным кодом, которая реализует сетевой протокол CIFS / SMB на 100% Java
+org.scala-lang:scala-library;2.11.12;Стандартная библиотека для языка программирования Scala
+org.scijava:native-lib-loader;2.0.2;Библиотека для загрузки нативных библиотек.
+org.skyscreamer:jsonassert;1.4.0;Библиотека для разработки RESTful, но гибких API
+org.slf4j:jcl-over-slf4j;1.7.13;Реализация JCL 1.1.1 поверх SLF4J
+org.slf4j:jul-to-slf4j;1.6.1;JUL в SLF4J мост
+org.slf4j:jul-to-slf4j;1.7.24;JUL в SLF4J мост
+org.slf4j:log4j-over-slf4j;1.6.1;Log4j реализован поверх SLF4J
+org.slf4j:log4j-over-slf4j;1.7.24;Log4j реализован поверх SLF4J
+org.slf4j:slf4j-api;1.6.1;API slf4j
+org.slf4j:slf4j-api;1.7.10;API slf4j
+org.slf4j:slf4j-api;1.7.13;API slf4j
+org.slf4j:slf4j-api;1.7.24;API slf4j
+org.slf4j:slf4j-log4j12;1.7.24;Связывание SLF4J LOG4J-12
+org.springframework.boot:spring-boot;1.5.2.RELEASE;Spring Boot позволяет легко создавать автономные производственные приложения на основе Spring, которые можно «просто запустить»
+org.springframework.boot:spring-boot-actuator;1.5.2.RELEASE;Стартер для использования Spring Boot's Actuator, который предоставляет готовые к работе функции, которые помогут вам контролировать и управлять вашим приложением
+org.springframework.boot:spring-boot-autoconfigure;1.5.2.RELEASE;Spring Boot AutoConfigure
+org.springframework.boot:spring-boot-configuration-processor;1.5.2.RELEASE;Процессор аннотации конфигурации Spring Boot
+org.springframework.boot:spring-boot-devtools;1.5.2.RELEASE;Инструменты разработчика Spring Boot
+org.springframework.boot:spring-boot-starter;1.5.2.RELEASE;Базовый стартер, включая поддержку автоконфигурации, протоколирование и YAML
+org.springframework.boot:spring-boot-starter-activemq;1.5.2.RELEASE;Стартер для обмена сообщениями JMS с использованием Apache ActiveMQ
+org.springframework.boot:spring-boot-starter-jetty;1.5.2.RELEASE;Стартер для использования Jetty в качестве встроенного контейнера сервлетов.
+org.springframework.boot:spring-boot-starter-logging;1.5.2.RELEASE;Стартер для входа с использованием Logback.
+org.springframework.boot:spring-boot-starter-security;1.5.2.RELEASE;Стартер для использования Spring Security
+org.springframework.boot:spring-boot-starter-test;1.5.2.RELEASE;Стартер для тестирования приложений Spring Boot с библиотеками, включая JUnit, Hamcrest и Mockito
+org.springframework.boot:spring-boot-starter-thymeleaf;1.5.2.RELEASE;Стартер для создания веб-приложений MVC с использованием представлений Thymeleaf
+org.springframework.boot:spring-boot-starter-web;1.5.2.RELEASE;Стартер для создания веб, в том числе RESTful, приложений, использующих Spring MVC.
+org.springframework.boot:spring-boot-starter-websocket;1.5.2.RELEASE;Стартер для создания приложений WebSocket с использованием поддержки Spring Framework WebSocket
+org.springframework.boot:spring-boot-test;1.5.2.RELEASE;Стартер для тестирования приложений Spring Boot с библиотеками, включая JUnit, Hamcrest и Mockito
+org.springframework.boot:spring-boot-test-autoconfigure;1.5.2.RELEASE;Spring Boot Test AutoConfigure
+org.springframework.data:spring-data-commons;1.12.4.RELEASE;Spring Data Core
+org.springframework.integration:spring-integration-core;3.0.6.RELEASE;Spring Integration Core
+org.springframework.integration:spring-integration-core;4.3.8.RELEASE;Spring Integration Core
+org.springframework.ldap:spring-ldap-core;2.3.1.RELEASE;Spring-ldap-core
+org.springframework.plugin:spring-plugin-core;1.2.0.RELEASE;Базовая инфраструктура плагинов
+org.springframework.plugin:spring-plugin-metadata;1.2.0.RELEASE;Пакет расширений для плагинов на основе метаданных
+org.springframework.retry:spring-retry;1.2.0.RELEASE;Spring Retry предоставляет абстракцию вокруг повторения неудачных операций, с упором на декларативное управление процессом и поведение на основе политик, которое легко расширять и настраивать.
+org.springframework.security:spring-security-config;4.2.2.RELEASE;Модуль безопасности Spring
+org.springframework.security:spring-security-core;4.2.2.RELEASE;Модуль безопасности Spring
+org.springframework.security:spring-security-ldap;4.2.2.RELEASE;Модуль безопасности Spring
+org.springframework.security:spring-security-web;4.2.2.RELEASE;Модуль безопасности Spring
+org.springframework.session:spring-session;1.3.0.RELEASE;Spring сессия
+org.springframework.ws:spring-ws-core;2.4.0.RELEASE;Базовый пакет Spring Web Services.
+org.springframework.ws:spring-ws-support;2.4.0.RELEASE;Пакет поддержки Spring Web Services.
+org.springframework.ws:spring-xml;2.1.2.RELEASE;Различные классы поддержки XML для Spring Web Services
+org.springframework:spring-aop;4.3.7.RELEASE;Spring Framework: AOP
+org.springframework:spring-aspects;4.3.7.RELEASE;Spring Framework: аспекты
+org.springframework:spring-beans;4.3.7.RELEASE;Spring Framework: Beans
+org.springframework:spring-context;4.3.7.RELEASE;Spring Framework: контекст
+org.springframework:spring-core;4.3.7.RELEASE;Spring Framework: Core
+org.springframework:spring-expression;4.3.7.RELEASE;Spring Expression Language (SpEL)
+org.springframework:spring-jdbc;4.3.7.RELEASE;Spring Framework: JDBC
+org.springframework:spring-jms;4.3.7.RELEASE;Spring Framework: JMS
+org.springframework:spring-messaging;4.3.7.RELEASE;Spring Messaging
+org.springframework:spring-orm;4.3.7.RELEASE;Spring Object / Relational Mapping
+org.springframework:spring-oxm;4.3.7.RELEASE;Spring Object / XML Mapping абстракция
+org.springframework:spring-test;4.3.7.RELEASE;Spring Framework: Тест
+org.springframework:spring-tx;4.3.7.RELEASE;Spring Framework: транзакция
+org.springframework:spring-web;4.3.7.RELEASE;Spring Framework: Web
+org.springframework:spring-webmvc;4.3.7.RELEASE;Spring Framework: WebMVC
+org.springframework:spring-websocket;4.3.7.RELEASE;Spring WebSocket
+org.testcontainers:testcontainers;1.14.2;Управление изолированным контейнером для тестирования кода Java
+org.thymeleaf:thymeleaf;2.1.5.RELEASE;Современный серверный шаблонизатор Java для веб-приложений и автономных сред
+org.thymeleaf:thymeleaf-spring4;2.1.5.RELEASE;Современный серверный шаблонизатор Java для веб-приложений и автономных сред
+org.unbescape:unbescape;1.1.0.RELEASE;Расширенная, но простая в использовании библиотека escape / unescape для Java
+org.webjars:swagger-ui;3.25.0;WebJar для Swagger UI
+org.webjars:webjars-locator;0.32;WebJar Locator
+org.webjars:webjars-locator-core;0.30;Функциональность WebJar Locator Core
+org.xerial.snappy:snappy-java;1.1.7.3;Snappy-java: библиотека быстрого сжатия / распаковки
+org.yaml:snakeyaml;1.17;Парсер и эмиттер YAML 1.1 для Java
+oro:oro;2.0.8;Oro
+relaxngDatatype:relaxngDatatype;20020414;RelaxngDatatype
+ru.factorts:wmq-repository;3.1.5;Клиент взаимодействия с WMQ
+stax:stax-api;1.0.1;StAX API - это стандартный API обработки XML Java, определенный в JSR-173
+wsdl4j:wsdl4j;1.6.3;Этот пакет просто оборачивает $ {pkgArtifactId} - $ {pkgVersion} .jar.
+xalan:serializer;2.7.2;Сериализатор для записи XML, HTML и т. Д. В виде потока символов из входного DOM или из входных событий SAX.
+xalan:xalan;2.7.2;Этот пакет просто оборачивает $ {pkgArtifactId} - $ {pkgVersion} .jar.
+xerces:xercesImpl;2.11.0;Xerces2 - это новое поколение высокопроизводительных, полностью совместимых анализаторов XML в семействе Apache Xerces.
+xml-apis:xml-apis;1.4.01;Xml-commons предоставляет Apache-размещенный набор интерфейсов DOM, SAX и JAXP для использования в других проектах на основе xml.
+xml-resolver:xml-resolver;1.2;Xml-commons предоставляет Apache-размещенный набор интерфейсов DOM, SAX и JAXP для использования в других проектах на основе xml.
+xmlpull:xmlpull;1.1.3.1;API XML Pull Parsing
+xom:xom;1.2.5;XOM Dual Streaming / Tree API для обработки XML
+xpp3:xpp3;1.1.4c;Этот пакет просто оборачивает $ {pkgArtifactId} - $ {pkgVersion} .jar.
+xpp3:xpp3_min;1.1.4c;MXP1 - это стабильный механизм синтаксического анализа XmlPull, основанный на идеях XPP и, в частности, XPP2, но полностью пересмотренный и переписанный, чтобы использовать все преимущества последних JVM JIT, таких как Hotspot в JDK 1.4+.

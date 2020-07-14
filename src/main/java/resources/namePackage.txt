@@ -1,414 +1,47 @@
-commons-pool:commons-pool:1.6
-crypto:crypto-server-lib:5
-io.dropwizard.metrics:metrics-core:3.1.3
-io.dropwizard.metrics:metrics-core:3.2.4
-io.dropwizard.metrics:metrics-json:3.1.5
-io.netty:netty-all:4.1.16.Final
-io.netty:netty-buffer:4.0.36.Final
-io.netty:netty-codec:4.0.36.Final
-io.netty:netty-common:4.0.36.Final
-io.netty:netty-handler:4.0.36.Final
-io.netty:netty-transport:4.0.36.Final
-io.springfox:springfox-core:2.9.2
-io.springfox:springfox-schema:2.9.2
-io.springfox:springfox-spi:2.9.2
-io.springfox:springfox-spring-web:2.9.2
-io.springfox:springfox-swagger2:2.9.2
-io.springfox:springfox-swagger-common:2.9.2
-io.springfox:springfox-swagger-ui:2.9.2
-io.swagger:swagger-annotations:1.5.20
-io.swagger:swagger-models:1.5.20
-jarapac:jarapac:1.0.0
-jarapac:jcifs:1.1.2
-jarapac:ncacn_ip_tcp:1.0.0
-javax.activation:activation:1.1
-javax.annotation:javax.annotation-api:1.2
-javax.annotation:javax.annotation-api:1.3
-javax.cache:cache-api:1.0.0
-javax.inject:javax.inject:1
-javax.jms:javax.jms-api:2.0.1
-javax.mail:mail:1.4.4
-javax.resource:javax.resource-api:1.7.1
-javax.servlet.jsp.jstl:javax.servlet.jsp.jstl-api:1.2.1
-javax.servlet:javax.servlet-api:3.1.0
-javax.transaction:javax.transaction-api:1.2
-javax.validation:validation-api:1.0.0.GA
-javax.validation:validation-api:1.1.0.Final
-javax.websocket:javax.websocket-api:1.0
-javax.ws.rs:javax.ws.rs-api:2.1
-javax.xml.stream:stax-api:1.0-2
-javax:javaee-api:7.0
-jaxen:jaxen:1.1.6
-jdom:jdom:1.0
-jfree:jcommon:1.0.12
-jfree:jfreechart:1.0.9
-jline:jline:2.12
-joda-time:joda-time:2.9.7
-junit:junit:4.12
-log4j:log4j:1.2.9
-log4j:log4j:1.2.16
-net.bramp.ffmpeg:ffmpeg:0.6.2
-net.bytebuddy:byte-buddy:1.8.12
-net.i2p.crypto:eddsa:0.2.0
-net.java.dev.jna:jna:4.2.2
-net.java.sezpoz:sezpoz:1.12
-net.jpountz.lz4:lz4:1.3.0
-net.lingala.zip4j:zip4j:1.3.2
-net.minidev:accessors-smart:1.1
-net.minidev:json-smart:2.2.1
-net.sf.ehcache:ehcache:2.10.3
-net.sf.ezmorph:ezmorph:1.0.6
-net.sf.json-lib:json-lib:jdk15:2.4
-net.sf.saxon:Saxon-HE:9.7.0-18
-nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:1.4.0
-ognl:ognl:3.0.8
-org.abego.treelayout:org.abego.treelayout.core:1.0.1
-org.acegisecurity:acegi-security:1.0.7
-org.antlr:antlr4-runtime:4.5
-org.apache.activemq.protobuf:activemq-protobuf:1.1
-org.apache.activemq:activemq-all:5.14.5
-org.apache.activemq:activemq-amqp:5.14.5
-org.apache.activemq:activemq-broker:5.14.5
-org.apache.activemq:activemq-camel:5.14.0
-org.apache.activemq:activemq-camel:5.14.5
-org.apache.activemq:activemq-client:5.14.5
-org.apache.activemq:activemq-http:5.14.5
-org.apache.activemq:activemq-jaas:5.14.5
-org.apache.activemq:activemq-jms-pool:5.14.5
-org.apache.activemq:activemq-kahadb-store:5.14.5
-org.apache.activemq:activemq-mqtt:5.14.5
-org.apache.activemq:activemq-openwire-legacy:5.14.5
-org.apache.activemq:activemq-pool:5.14.5
-org.apache.activemq:activemq-spring:5.14.5
-org.apache.activemq:activemq-stomp:5.14.5
-org.apache.activemq:activemq-web:5.14.5
-org.apache.ant:ant:1.8.4
-org.apache.ant:ant-launcher:1.8.4
-org.apache.camel:camel-barcode:2.20.2
-org.apache.camel:camel-base64:2.20.2
-org.apache.camel:camel-cache:2.20.2
-org.apache.camel:camel-core:2.20.1
-org.apache.camel:camel-core:2.20.2
-org.apache.camel:camel-crypto:2.1.0
-org.apache.camel:camel-csv:2.20.2
-org.apache.camel:camel-cxf:2.20.2
-org.apache.camel:camel-cxf-transport:2.20.2
-org.apache.camel:camel-ehcache:2.20.2
-org.apache.camel:camel-exec:2.20.2
-org.apache.camel:camel-ftp:2.20.2
-org.apache.camel:camel-ftp-server:1.1.0
-org.apache.camel:camel-groovy:2.20.2
-org.apache.camel:camel-http4:2.20.2
-org.apache.camel:camel-http-common:2.20.2
-org.apache.camel:camel-jaxb:2.20.2
-org.apache.camel:camel-jetty9:2.20.2
-org.apache.camel:camel-jetty-common:2.20.2
-org.apache.camel:camel-jms:2.16.3
-org.apache.camel:camel-jms:2.20.2
-org.apache.camel:camel-jpa:2.21.1
-org.apache.camel:camel-kafka:2.20.2
-org.apache.camel:camel-ldap:2.20.2
-org.apache.camel:camel-leveldb:2.15.2
-org.apache.camel:camel-leveldb:2.20.2
-org.apache.camel:camel-mail:2.20.2
-org.apache.camel:camel-metrics:2.20.2
-org.apache.camel:camel-milo:2.20.2
-org.apache.camel:camel-mina2:2.20.2
-org.apache.camel:camel-netty4:2.20.2
-org.apache.camel:camel-printer:2.20.2
-org.apache.camel:camel-rabbitmq:2.20.2
-org.apache.camel:camel-saxon:2.20.2
-org.apache.camel:camel-script:2.20.2
-org.apache.camel:camel-spark-rest:2.20.2
-org.apache.camel:camel-spring:2.20.1
-org.apache.camel:camel-spring:2.20.2
-org.apache.camel:camel-spring-ws:2.20.2
-org.apache.camel:camel-sql:2.20.2
-org.apache.camel:camel-ssh:2.20.2
-org.apache.camel:camel-stream:2.20.2
-org.apache.camel:camel-syslog:2.20.2
-org.apache.camel:camel-telegram:2.20.2
-org.apache.camel:camel-test:2.20.2
-org.apache.camel:camel-test-spring:2.20.2
-org.apache.camel:camel-websocket:2.20.2
-org.apache.camel:camel-xmljson:2.20.2
-org.apache.camel:camel-xstream:2.20.2
-org.apache.camel:camel-zipfile:2.20.2
-org.apache.commons:commons-collections4:4.2
-org.apache.commons:commons-compress:1.10
-org.apache.commons:commons-csv:1.5
-org.apache.commons:commons-exec:1.3
-org.apache.commons:commons-lang3:3.5
-org.apache.commons:commons-math3:3.6.1
-org.apache.commons:commons-pool2:2.4.2
-org.apache.cxf:cxf-core:3.2.4
-org.apache.cxf:cxf-rt-bindings-soap:3.2.1
-org.apache.cxf:cxf-rt-bindings-xml:3.2.1
-org.apache.cxf:cxf-rt-databinding-jaxb:3.2.1
-org.apache.cxf:cxf-rt-frontend-jaxrs:3.2.1
-org.apache.cxf:cxf-rt-frontend-jaxws:3.2.1
-org.apache.cxf:cxf-rt-frontend-simple:3.2.1
-org.apache.cxf:cxf-rt-rs-client:3.2.1
-org.apache.cxf:cxf-rt-transports-http:3.2.4
-org.apache.cxf:cxf-rt-transports-http-jetty:3.2.4
-org.apache.cxf:cxf-rt-ws-addr:3.2.1
-org.apache.cxf:cxf-rt-ws-policy:3.2.1
-org.apache.cxf:cxf-rt-wsdl:3.2.1
-org.apache.ftpserver:ftplet-api:1.1.1
-org.apache.ftpserver:ftpserver-core:1.1.1
-org.apache.geronimo.specs:geronimo-j2ee-management_1.1_spec:1.0.1
-org.apache.geronimo.specs:geronimo-jms_1.1_spec:1.1.1
-org.apache.geronimo.specs:geronimo-jms_2.0_spec:1.0-alpha-2
-org.apache.geronimo.specs:geronimo-jta_1.0.1B_spec:1.0.1
-org.apache.httpcomponents:httpclient:4.5.3
-org.apache.httpcomponents:httpcore:4.4.6
-org.apache.ignite:ignite-core:2.5.0
-org.apache.ignite:ignite-indexing:2.5.0
-org.apache.ignite:ignite-spring:2.5.0
-org.apache.kafka:kafka-clients:0.11.0.1
-org.apache.lucene:lucene-analyzers-common:5.5.2
-org.apache.lucene:lucene-core:5.5.2
-org.apache.lucene:lucene-queries:5.5.2
-org.apache.lucene:lucene-queryparser:5.5.2
-org.apache.lucene:lucene-sandbox:5.5.2
-org.apache.mina:mina-core:2.0.16
-org.apache.mina:mina-core:2.0.19
-org.apache.neethi:neethi:3.1.0
-org.apache.qpid:proton-j:0.16.0
-org.apache.santuario:xmlsec:2.1.2
-org.apache.sshd:sshd-core:1.6.0
-org.apache.ws.xmlschema:xmlschema-core:2.2.3
-org.apache.xbean:xbean-spring:4.2
-org.apache-extras.camel-extra:camel-jcifs:2.18.0
-org.aspectj:aspectjweaver:1.8.9
-org.assertj:assertj-core:2.6.0
-org.bouncycastle:bcpg-jdk15on:1.57
-org.bouncycastle:bcpkix-jdk15on:1.57
-org.bouncycastle:bcprov-jdk15on:1.57
-org.bouncycastle:bcprov-jdk15on:1.60
-org.codehaus.groovy:groovy:2.4.9
-org.codehaus.groovy:groovy-all:2.4.5
-org.codehaus.groovy:groovy-all:2.4.9
-org.codehaus.jettison:jettison:1.3.8
-org.codehaus.mojo:animal-sniffer-annotations:1.14
-org.codehaus.plexus:plexus-archiver:2.2
-org.codehaus.plexus:plexus-container-default:1.0-alpha-9-stable-1
-org.codehaus.plexus:plexus-io:2.0.4
-org.codehaus.plexus:plexus-utils:3.0.7
-org.codehaus.woodstox:stax2-api:3.1.4
-org.codehaus.woodstox:woodstox-core-asl:4.4.1
-org.codehaus.woodstox:wstx-asl:3.2.9
-org.connectbot.jbcrypt:jbcrypt:1.0.0
-org.eclipse.jetty.websocket:javax-websocket-client-impl:9.4.6.v20170531
-org.eclipse.jetty.websocket:javax-websocket-server-impl:9.4.6.v20170531
-org.eclipse.jetty.websocket:websocket-api:9.4.6.v20170531
-org.eclipse.jetty.websocket:websocket-client:9.4.6.v20170531
-org.eclipse.jetty.websocket:websocket-common:9.4.6.v20170531
-org.eclipse.jetty.websocket:websocket-server:9.4.6.v20170531
-org.eclipse.jetty.websocket:websocket-servlet:9.4.6.v20170531
-org.eclipse.jetty:jetty-annotations:9.4.6.v20170531
-org.eclipse.jetty:jetty-client:9.4.6.v20170531
-org.eclipse.jetty:jetty-continuation:9.4.6.v20170531
-org.eclipse.jetty:jetty-http:9.4.6.v20170531
-org.eclipse.jetty:jetty-io:9.4.6.v20170531
-org.eclipse.jetty:jetty-jmx:9.4.6.v20170531
-org.eclipse.jetty:jetty-jndi:9.4.6.v20170531
-org.eclipse.jetty:jetty-plus:9.4.6.v20170531
-org.eclipse.jetty:jetty-security:9.4.6.v20170531
-org.eclipse.jetty:jetty-server:9.4.6.v20170531
-org.eclipse.jetty:jetty-servlet:9.4.6.v20170531
-org.eclipse.jetty:jetty-servlets:9.4.6.v20170531
-org.eclipse.jetty:jetty-util:9.4.6.v20170531
-org.eclipse.jetty:jetty-webapp:9.4.6.v20170531
-org.eclipse.jetty:jetty-xml:9.4.6.v20170531
-org.eclipse.jgit:org.eclipse.jgit.http.apache:4.5.2.201704071617-r
-org.eclipse.jgit:org.eclipse.jgit.http.server:4.5.2.201704071617-r
-org.eclipse.jgit:org.eclipse.jgit:4.5.2.201704071617-r
-org.eclipse.milo:sdk-client:0.1.4
-org.eclipse.milo:sdk-core:0.1.4
-org.eclipse.milo:sdk-server:0.1.4
-org.eclipse.milo:stack-client:0.1.4
-org.eclipse.milo:stack-core:0.1.4
-org.eclipse.milo:stack-server:0.1.4
-org.ehcache:ehcache:3.2.1
-org.fusesource.hawtbuf:hawtbuf:1.11
-org.fusesource.hawtdispatch:hawtdispatch:1.22
-org.fusesource.hawtdispatch:hawtdispatch-transport:1.22
-org.fusesource.hawtjni:hawtjni-runtime:1.9
-org.fusesource.jansi:jansi:1.11
-org.fusesource.leveldbjni:leveldbjni:1.8
-org.fusesource.leveldbjni:leveldbjni-all:1.8
-org.fusesource.mqtt-client:mqtt-client:1.14
-org.gridgain:ignite-shmem:1.0.0
-org.hamcrest:hamcrest-core:1.3
-org.hamcrest:hamcrest-library:1.3
-org.hibernate:hibernate-validator:4.3.1.Final
-org.hibernate:hibernate-validator:5.3.4.Final
-org.iq80.leveldb:leveldb:0.9
-org.iq80.leveldb:leveldb-api:0.6
-org.iq80.leveldb:leveldb-api:0.9
-org.javassist:javassist:3.21.0-GA
-org.jboss.logging:jboss-logging:3.3.0.Final
-org.jenkins-ci.dom4j:dom4j:1.6.1-jenkins-4
-org.jenkins-ci.main:cli:2.97
-org.jenkins-ci.main:jenkins-core:2.97
-org.jenkins-ci.main:remoting:3.14
-org.jenkins-ci.plugins.icon-shim:icon-set:1.0.5
-org.jenkins-ci.plugins.workflow:workflow-scm-step:1.14.2
-org.jenkins-ci.plugins.workflow:workflow-step-api:1.14.2
-org.jenkins-ci.plugins:credentials:2.1.14
-org.jenkins-ci.plugins:display-url-api:0.2
-org.jenkins-ci.plugins:git:3.6.4
-org.jenkins-ci.plugins:git-client:2.5.0
-org.jenkins-ci.plugins:junit:1.2
-org.jenkins-ci.plugins:mailer:1.18
-org.jenkins-ci.plugins:matrix-project:1.7.1
-org.jenkins-ci.plugins:scm-api:2.2.0
-org.jenkins-ci.plugins:script-security:1.13
-org.jenkins-ci.plugins:ssh-credentials:1.13
-org.jenkins-ci.plugins:structs:1.10
-org.jenkins-ci:annotation-indexer:1.12
-org.jenkins-ci:bytecode-compatibility-transformer:1.8
-org.jenkins-ci:commons-jelly:1.1-jenkins-20120928
-org.jenkins-ci:commons-jexl:1.1-jenkins-20111212
-org.jenkins-ci:constant-pool-scanner:1.2
-org.jenkins-ci:crypto-util:1.1
-org.jenkins-ci:jmdns:3.4.0-jenkins-3
-org.jenkins-ci:memory-monitor:1.9
-org.jenkins-ci:symbol-annotation:1.1
-org.jenkins-ci:task-reactor:1.4
-org.jenkins-ci:trilead-ssh2:build-217-jenkins-11
-org.jenkins-ci:version-number:1.4
-org.jetbrains:annotations:13.0
-org.jooq:jool:0.9.10
-org.jooq:jooq:3.9.1
-org.jooq:jooq-meta:3.9.1
-org.jooq:joox:1.4.0
-org.jruby.ext.posix:jna-posix:1.0.3-jenkins-1
-org.jsoup:jsoup:1.11.3
-org.jvnet.hudson:activation:1.1.1-hudson-1
-org.jvnet.hudson:commons-jelly-tags-define:1.0.1-hudson-20071021
-org.jvnet.hudson:jtidy:4aug2000r7-dev-hudson-1
-org.jvnet.hudson:xstream:1.4.7-jenkins-1
-org.jvnet.localizer:localizer:1.24
-org.jvnet.robust-http-client:robust-http-client:1.2
-org.jvnet.winp:winp:1.25
-org.jvnet:tiger-types:2.2
-org.kohsuke.jinterop:j-interop:2.0.6-kohsuke-1
-org.kohsuke.jinterop:j-interopdeps:2.0.6-kohsuke-1
-org.kohsuke.stapler:json-lib:2.4-jenkins-2
-org.kohsuke.stapler:stapler:1.254
-org.kohsuke.stapler:stapler-adjunct-codemirror:1.3
-org.kohsuke.stapler:stapler-adjunct-timeline:1.5
-org.kohsuke.stapler:stapler-adjunct-zeroclipboard:1.3.5-1
-org.kohsuke.stapler:stapler-groovy:1.254
-org.kohsuke.stapler:stapler-jelly:1.254
-org.kohsuke.stapler:stapler-jrebel:1.254
-org.kohsuke:access-modifier-annotation:1.12
-org.kohsuke:akuma:1.10
-org.kohsuke:asm5:5.0.1
-org.kohsuke:groovy-sandbox:1.8
-org.kohsuke:libpam4j:1.8
-org.kohsuke:libzfs:0.8
-org.kohsuke:trilead-putty-extension:1.2
-org.kohsuke:windows-package-checker:1.2
-org.mapstruct:mapstruct:1.2.0.Final
-org.mockftpserver:MockFtpServer:2.7.1
-org.mockito:mockito-all:1.10.19
-org.mockito:mockito-core:1.10.19
-org.modelmapper:modelmapper:0.7.7
-org.mortbay.jasper:apache-el:8.0.33
-org.objenesis:objenesis:2.1
-org.ow2.asm:asm:5.0.3
-org.ow2.asm:asm:5.1
-org.ow2.asm:asm:5.2
-org.ow2.asm:asm-analysis:5.0.3
-org.ow2.asm:asm-commons:5.0.3
-org.ow2.asm:asm-commons:5.1
-org.ow2.asm:asm-tree:5.0.3
-org.ow2.asm:asm-tree:5.1
-org.ow2.asm:asm-util:5.0.3
-org.projectlombok:lombok:1.16.12
-org.projectlombok:lombok:1.18.0
-org.projectlombok:lombok:1.18.4
-org.reflections:reflections:0.9.10
-org.samba.jcifs:jcifs:1.2.19
-org.skyscreamer:jsonassert:1.4.0
-org.slf4j:jcl-over-slf4j:1.7.10
-org.slf4j:jcl-over-slf4j:1.7.13
-org.slf4j:jul-to-slf4j:1.7.24
-org.slf4j:log4j-over-slf4j:1.7.24
-org.slf4j:slf4j-api:1.6.1
-org.slf4j:slf4j-api:1.7.10
-org.slf4j:slf4j-api:1.7.13
-org.slf4j:slf4j-api:1.7.24
-org.slf4j:slf4j-log4j12:1.6.1
-org.slf4j:slf4j-log4j12:1.7.24
-org.slf4j:slf4j-simple:1.7.10
-org.springframework.boot:spring-boot:1.5.2.RELEASE
-org.springframework.boot:spring-boot-actuator:1.5.2.RELEASE
-org.springframework.boot:spring-boot-autoconfigure:1.5.2.RELEASE
-org.springframework.boot:spring-boot-configuration-processor:1.5.2.RELEASE
-org.springframework.boot:spring-boot-devtools:1.5.2.RELEASE
-org.springframework.boot:spring-boot-starter:1.5.2.RELEASE
-org.springframework.boot:spring-boot-starter-activemq:1.5.2.RELEASE
-org.springframework.boot:spring-boot-starter-jetty:1.5.2.RELEASE
-org.springframework.boot:spring-boot-starter-logging:1.5.2.RELEASE
-org.springframework.boot:spring-boot-starter-security:1.5.2.RELEASE
-org.springframework.boot:spring-boot-starter-test:1.5.2.RELEASE
-org.springframework.boot:spring-boot-starter-thymeleaf:1.5.2.RELEASE
-org.springframework.boot:spring-boot-starter-web:1.5.2.RELEASE
-org.springframework.boot:spring-boot-starter-websocket:1.5.2.RELEASE
-org.springframework.boot:spring-boot-test:1.5.2.RELEASE
-org.springframework.boot:spring-boot-test-autoconfigure:1.5.2.RELEASE
-org.springframework.data:spring-data-commons:1.12.4.RELEASE
-org.springframework.integration:spring-integration-core:3.0.6.RELEASE
-org.springframework.integration:spring-integration-core:4.3.8.RELEASE
-org.springframework.ldap:spring-ldap-core:2.3.1.RELEASE
-org.springframework.plugin:spring-plugin-core:1.2.0.RELEASE
-org.springframework.plugin:spring-plugin-metadata:1.2.0.RELEASE
-org.springframework.retry:spring-retry:1.2.0.RELEASE
-org.springframework.security:spring-security-config:4.2.2.RELEASE
-org.springframework.security:spring-security-core:4.2.2.RELEASE
-org.springframework.security:spring-security-ldap:4.2.2.RELEASE
-org.springframework.security:spring-security-web:4.2.2.RELEASE
-org.springframework.session:spring-session:1.3.0.RELEASE
-org.springframework.ws:spring-ws-core:2.4.0.RELEASE
-org.springframework.ws:spring-ws-support:2.4.0.RELEASE
-org.springframework.ws:spring-xml:2.1.2.RELEASE
-org.springframework:spring-aop:4.3.7.RELEASE
-org.springframework:spring-aspects:4.3.7.RELEASE
-org.springframework:spring-beans:4.3.7.RELEASE
-org.springframework:spring-context:4.3.7.RELEASE
-org.springframework:spring-core:4.3.7.RELEASE
-org.springframework:spring-expression:4.3.7.RELEASE
-org.springframework:spring-jdbc:4.3.7.RELEASE
-org.springframework:spring-jms:4.3.7.RELEASE
-org.springframework:spring-messaging:4.3.7.RELEASE
-org.springframework:spring-orm:4.3.7.RELEASE
-org.springframework:spring-oxm:4.3.7.RELEASE
-org.springframework:spring-test:4.3.7.RELEASE
-org.springframework:spring-tx:4.3.7.RELEASE
-org.springframework:spring-web:4.3.7.RELEASE
-org.springframework:spring-webmvc:4.3.7.RELEASE
-org.springframework:spring-websocket:4.3.7.RELEASE
-org.thymeleaf:thymeleaf:2.1.5.RELEASE
-org.thymeleaf:thymeleaf-spring4:2.1.5.RELEASE
-org.unbescape:unbescape:1.1.0.RELEASE
-org.xerial.snappy:snappy-java:1.1.2.6
-org.yaml:snakeyaml:1.17
-oro:oro:2.0.8
-relaxngDatatype:relaxngDatatype:20020414
-rome:rome:1.0
-ru.factorts:wmq-repository:3.0.1
-stax:stax-api:1.0.1
-wsdl4j:wsdl4j:1.6.3
-xalan:serializer:2.7.2
-xalan:xalan:2.7.2
-xerces:xercesImpl:2.11.0
-xml-apis:xml-apis:1.4.01
-xml-resolver:xml-resolver:1.2
-xmlpull:xmlpull:1.1.3.1
-xom:xom:1.2.5
-xpp3:xpp3:1.1.4c
-xpp3:xpp3_min:1.1.4c
+javax.resource:javax.resource-api;1.7.1;Джава дал архитектуру разъема
+org.apache.activemq:activemq-camel;5.14.0;ActiveMQ компонент для Camel
+org.apache.camel:camel-core;2.20.2;Маршрутизатор на базе Core Camel POJO
+com.sun.xml.bind:jaxb-core;2.2.11;Старый модуль JAXB Core.
+org.apache.activemq:activemq-openwire-legacy;5.15.11;Модуль поддержки ActiveMQ Openwire Legacy
+org.apache.xbean:xbean-spring;4.14;Xbean-spring предоставляет управляемый схемой проприетарный обработчик пространства имен для контекстов Spring
+com.fasterxml.jackson.core:jackson-core;2.6.3;JSON парсер для Java
+com.google.code.findbugs:jsr305;1.3.9;Поддержка проекта аннотации jsr305
+org.springframework:spring-jms;4.3.7.RELEASE;Spring Framework: JMS
+com.google.j2objc:j2objc-annotations;1.1;Набор аннотаций, которые предоставляют дополнительную информацию переводчику J2ObjC для изменения результата перевода.
+org.codehaus.mojo:animal-sniffer-annotations;1.14;Животные Sniffer Аннотации
+org.springframework:spring-core;4.3.7.RELEASE;Spring Framework: Core
+org.apache.camel:camel-ftp;2.20.2;Поддержка Camel FTP
+commons-io:commons-io;2.6;Commons-IO содержит служебные классы, реализации потоков, фильтры файлов и классы байтов.
+org.springframework:spring-expression;4.3.7.RELEASE;Spring Expression Language (SpEL)
+org.apache.activemq:activemq-spring;5.15.11;ActiveMQ Spring Integration
+org.apache.camel:camel-stream;2.20.2;Поддержка Camel Stream (System.in, System.out, System.err)
+org.apache.camel:camel-spring;2.20.2;Поддержка Camel Spring
+com.google.errorprone:error_prone_annotations;2.0.18;Подверженные ошибкам аннотации
+org.springframework:spring-tx;4.3.7.RELEASE;Spring Framework: транзакция
+org.apache.geronimo.specs:geronimo-jta_1.1_spec;1.1.1;Зота 1,5
+org.apache.activemq:activemq-pool;5.15.11;ActiveMQ пул соединений фабрика
+org.apache.camel:camel-test;2.20.2;Библиотека тестирования верблюдов
+com.google.guava:guava;22.0;Guava - это набор базовых и расширенных библиотек, которые включают в себя служебные классы, коллекции Google, io-классы и многое другое.
+org.apache.activemq:activemq-client;5.15.11;Реализация клиента ActiveMQ
+org.springframework:spring-beans;4.3.7.RELEASE;Spring Framework: Beans
+org.springframework:spring-messaging;4.3.7.RELEASE;Spring Messaging
+org.apache.activemq:activemq-jms-pool;5.15.11;Общий JMS-пул ConnectionFactory
+com.sun.xml.bind:jaxb-impl;2.2.11;Старый JAXB Runtime модуль.
+org.hamcrest:hamcrest-core;1.3;Core Hamcrest API - устарел, используйте вместо него «hamcrest»
+org.apache.geronimo.specs:geronimo-jms_1.1_spec;1.1.1;JMS 1.1
+org.slf4j:slf4j-api;1.7.13;API slf4j
+org.fusesource.hawtbuf:hawtbuf;1.11;HawtBuf
+junit:junit;4.12;Этот файл является частью угрюмых модулей.
+org.springframework:spring-aop;4.3.7.RELEASE;Spring Framework: AOP
+com.jcraft:jsch;0.1.54;JSch - это чистая Java-реализация SSH2
+com.fasterxml.jackson.core:jackson-annotations;2.6.3;JSON парсер для Java
+javax.transaction:javax.transaction-api;1.2;API-интерфейс Project GlassFish для Java-транзакций
+org.apache.activemq:activemq-broker;5.15.11;Реализация ActiveMQ Message Broker
+commons-logging:commons-logging;1.0.3;Apache Commons Logging - это тонкий адаптер, позволяющий настраивать мостовое соединение с другими, хорошо известными системами ведения журналов
+org.apache.geronimo.specs:geronimo-j2ee-management_1.1_spec;1.0.1;J2EE Management 1.1
+org.springframework:spring-context;4.3.7.RELEASE;Spring Framework: контекст
+org.apache.camel:camel-jms;2.16.3;Поддержка Camel JMS
+org.apache.commons:commons-pool2;2.4.2;Библиотека пула объектов Apache Commons.
+com.fasterxml.jackson.core:jackson-databind;2.6.3;JSON парсер для Java
+org.projectlombok:lombok;1.16.12;Приправьте Java: автоматическое управление ресурсами, автоматическая генерация методов получения, установки, равенства, hashCode и toString и многое другое!
+commons-net:commons-net;3.6;Это Java-библиотека набора интернет-протоколов, изначально разработанная ORO, Inc. Эта версия поддерживает Finger, Whois, TFTP, Telnet, POP3, FTP, NNTP, SMTP и некоторые другие протоколы, такие как Time и Echo, а также поддержку команд BSD R. Цель библиотеки - обеспечить доступ к основному протоколу, а не к абстракциям более высокого уровня. Поэтому часть дизайна нарушает принципы объектно-ориентированного проектирования. Наша философия заключается в том, чтобы сделать глобальную функциональность протокольного доступа (например, отправляющий файл TFTP и принимаемый файл), когда это возможно, но также обеспечить доступ к основным протоколам, где это применимо, чтобы программист мог создавать свои собственные пользовательские реализации (например, TFTP). классы пакетов и методы отправки и получения пакетов TFTP). Изначально NetComponents был коммерческим продуктом, но после того, как ORO распался, его продолжали делать доступным для тех, кто нашел его полезным. Однако с момента версии 1.3.8, выпущенной в 1998 году, никаких обновлений сделано не было. Теперь, когда определенные обязательства по контракту истекли, можно сделать исходный код свободно доступным в рамках лицензии на программное обеспечение Apache.

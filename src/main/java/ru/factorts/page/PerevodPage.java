@@ -11,7 +11,7 @@ public class PerevodPage{
 
 
     public SelenideElement nameClassInput = $$x("//input[@name=\"query\"]").find(visible);
-    public SelenideElement nameClassButton = $$x("//input[@type=\"submit\"]").find(visible);
+    public SelenideElement nameClassButton = $$x("//button[@type=\"submit\"]").find(visible);
     public SelenideElement description = $$x("//td[text()='Description:']/following-sibling::td").find(visible);
 
     public SelenideElement translaterInput = $$x("//*[@id=\"source\"]").find(visible);
